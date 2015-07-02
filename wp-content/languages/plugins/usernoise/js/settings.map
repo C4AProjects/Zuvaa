@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "settings.js",
+  "sourceRoot": "",
+  "sources": [
+    "settings.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CAAO,GAAP,GAAQ;CACP,EAAoB,CAApB,CAAA,IAAoB,CAApB;CACC,EAAY,GAAZ,GAAY,CAAZ;CACC,KAAA,EAAA,0BAAA;CAA6C,CAAU,CAAA,CAAA,IAAV,CAAW,CAAX,EAAU;CAC1B,EAAb,CAAf,IAAA,IAAA,OAAA;CAD4C,UAAU;CAAvD,SAAA;CADU,CAKR,CALH,IAAY;CADb,IAAoB;CADrB,EAAO;CAAP"
+}

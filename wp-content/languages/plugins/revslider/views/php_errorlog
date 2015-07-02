@@ -1,0 +1,6 @@
+[14-Aug-2014 14:39:38 CST6CDT] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/slider_template.php on line 4
+[16-Aug-2014 02:11:50 CST6CDT] PHP Fatal error:  Class 'RevOperations' not found in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/slides.php on line 3
+[16-Aug-2014 04:43:25 CST6CDT] PHP Fatal error:  Class 'GlobalsRevSlider' not found in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/master_view.php on line 5
+[17-Aug-2014 15:46:35 CST6CDT] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/slider.php on line 4
+[17-Aug-2014 23:02:25 CST6CDT] PHP Fatal error:  Class 'RevSlider' not found in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/sliders.php on line 2
+[19-Aug-2014 03:54:21 CST6CDT] PHP Fatal error:  Class 'UniteFunctionsRev' not found in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/slide.php on line 4

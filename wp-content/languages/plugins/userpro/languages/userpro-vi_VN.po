@@ -1,0 +1,2550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UserPro Vietnamese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-30 12:40+0200\n"
+"PO-Revision-Date: 2014-02-21 07:26+0700\n"
+"Last-Translator: tuhocit.net <tuhocit.net>\n"
+"Language-Team: TuHocIT <tuhocit.net@gmail.com>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/emd/admin/admin.php:27 addons/social/admin/admin.php:27
+msgid "Extension Settings"
+msgstr "Cài đặt Tiện Ích"
+
+#: addons/emd/admin/admin.php:61
+msgid "Enhanced Member Directory"
+msgstr "Danh mục thành viên"
+
+#: addons/emd/admin/admin.php:109 addons/redirects/admin/admin.php:117
+#: addons/social/admin/admin.php:110 admin/admin.php:206
+msgid "Settings saved."
+msgstr "Đã lưu cài đặt"
+
+#: addons/emd/admin/admin.php:115 addons/redirects/admin/admin.php:123
+#: addons/social/admin/admin.php:116 admin/admin.php:212
+msgid "Settings are reset to default."
+msgstr "Thiết lập lại mặc định."
+
+#: addons/emd/admin/admin.php:120 addons/redirects/admin/admin.php:128
+#: addons/social/admin/admin.php:121 admin/admin.php:217
+msgid "Your plugin pages have been rebuilt successfully."
+msgstr "Plugin của bạn đã được xây dựng lại thành công."
+
+#: addons/emd/admin/panels/settings.php:3
+msgid "Global Layout Settings"
+msgstr "Thiết lập Giao diện Chính"
+
+#: addons/emd/admin/panels/settings.php:4
+msgid "All settings can be overriden using shortcode options."
+msgstr "Tất cả các thiết lập có thể được ghi đè bằng các tùy chọn shortcode."
+
+#: addons/emd/admin/panels/settings.php:9
+msgid "Number of results per page"
+msgstr "Số kết quả mỗi trang"
+
+#: addons/emd/admin/panels/settings.php:16
+msgid "Result Column Width"
+msgstr "Độ rộng cột Kết quả"
+
+#: addons/emd/admin/panels/settings.php:19
+msgid ""
+"A percentage (%) or pixel value. This decides how many columns the plugin "
+"will attempt to display relative to 100% width. Example: 30% means there "
+"will be max of 3 users per column."
+msgstr ""
+"Một tỷ lệ (%) hoặc giá trị pixel. Điều này quyết định có bao nhiêu cột "
+"plugin sẽ cố gắng để hiển thị liên quan đến 100% chiều rộng. Ví dụ: 30% có "
+"nghĩa là sẽ có tối đa 3 người sử dụng mỗi cột."
+
+#: addons/emd/admin/panels/settings.php:24
+msgid "Result Column Margin"
+msgstr "Biên Cột kết quả"
+
+#: addons/emd/admin/panels/settings.php:27
+msgid ""
+"Left margin applied to the result column, which leaves a gap so that whole "
+"width is close to 100% including the column widths."
+msgstr ""
+"Lề trái áp dụng cho các cột kết quả, mà để lại một khoảng cách để toàn bộ "
+"chiều rộng gần 100% bao gồm cả chiều rộng các cột."
+
+#: addons/emd/admin/panels/settings.php:32
+msgid "Results Layout"
+msgstr "Kết quả Giao diện"
+
+#: addons/emd/admin/panels/settings.php:35
+msgid "Masonry"
+msgstr "Masonry"
+
+#: addons/emd/admin/panels/settings.php:36
+msgid "Grid / Fit Columns"
+msgstr "Lưới / Cố định Cột"
+
+#: addons/emd/admin/panels/settings.php:44
+#: addons/social/admin/panels/pages.php:22
+#: addons/social/admin/panels/settings.php:50 admin/panels/fieldroles.php:28
+#: admin/panels/mail.php:97 admin/panels/pages.php:42
+#: admin/panels/restrict.php:76 admin/panels/settings.php:603
+#: functions/shortcode-main.php:106 functions/shortcode-private-content.php:84
+msgid "Save Changes"
+msgstr "Lưu Thay đổi"
+
+#: addons/emd/admin/panels/settings.php:45
+#: addons/social/admin/panels/pages.php:23
+#: addons/social/admin/panels/settings.php:51 admin/panels/fieldroles.php:29
+#: admin/panels/mail.php:98 admin/panels/pages.php:43
+#: admin/panels/restrict.php:77 admin/panels/settings.php:604
+msgid "Reset Options"
+msgstr "Thiết lập lại Tùy chọn"
+
+#: addons/emd/functions/api.php:180
+msgid "Previous"
+msgstr "Trước"
+
+#: addons/emd/functions/api.php:181
+msgid "Next"
+msgstr "Tiếp"
+
+#: addons/emd/functions/api.php:257
+msgid "No preference"
+msgstr "Không có sở thích"
+
+#: addons/emd/functions/api.php:258
+msgid "Only members with photo"
+msgstr "Chỉ thành viên có ảnh"
+
+#: addons/emd/functions/api.php:259
+msgid "Only members without photo"
+msgstr "Chỉ các thành viên mà không ảnh"
+
+#: addons/emd/functions/api.php:264
+msgid "All accounts"
+msgstr "Tất cả tài khoản"
+
+#: addons/emd/functions/api.php:265
+msgid "Only verified accounts"
+msgstr "Tài khoản chỉ xác nhận"
+
+#: addons/emd/functions/api.php:306 addons/emd/functions/api.php:336
+msgid "All"
+msgstr "Tất cả"
+
+#: addons/emd/functions/api.php:355
+#, php-format
+msgid "Select %s"
+msgstr "Chọn %s"
+
+#: addons/emd/templates/emd.php:9
+msgid "Customize your Search"
+msgstr "Tùy chỉnh tìm kiếm của bạn"
+
+#: addons/emd/templates/emd.php:13
+msgid "Filter Search"
+msgstr "Bộ lọc Tìm kiếm"
+
+#: addons/emd/templates/emd.php:42 templates/card.php:12
+msgid "View Full Profile"
+msgstr "Xem Hồ sơ đầy đủ"
+
+#: addons/emd/templates/emd.php:77
+msgid "No users are matching your search criteria."
+msgstr "Không có thành viên nào phù hợp với tiêu chí tìm kiếm của bạn."
+
+#: addons/redirects/admin/admin-functions.php:18
+msgid "Map All Users"
+msgstr "Tất cả bản đồ"
+
+#: addons/redirects/admin/admin-functions.php:67
+#: addons/redirects/admin/admin-functions.php:77 admin/panels/settings.php:92
+msgid "Username"
+msgstr "Tên Đăng Nhập"
+
+#: addons/redirects/admin/admin-functions.php:68
+#: addons/redirects/admin/admin-functions.php:78
+msgid "Role"
+msgstr "Role"
+
+#: addons/redirects/admin/admin-functions.php:69
+#: addons/redirects/admin/admin-functions.php:79
+msgid "Custom Field"
+msgstr "Trường Tuỳ chỉnh"
+
+#: addons/redirects/admin/admin-functions.php:70
+#: addons/redirects/admin/admin-functions.php:80
+msgid "Field Value"
+msgstr "Giá trị của Trường"
+
+#: addons/redirects/admin/admin-functions.php:71
+#: addons/redirects/admin/admin-functions.php:81
+#: addons/redirects/admin/panels/login_redirects.php:30
+#: addons/redirects/admin/panels/register_redirects.php:30
+msgid "Redirection URL"
+msgstr "URL chuyển hướng"
+
+#: addons/redirects/admin/admin-functions.php:72
+#: addons/redirects/admin/admin-functions.php:82
+#: functions/fields-functions.php:427 functions/fields-functions.php:430
+#: functions/fields-functions.php:437 functions/fields-functions.php:440
+msgid "Remove"
+msgstr "Xóa"
+
+#: addons/redirects/admin/admin-functions.php:98
+msgid "Remove Rule"
+msgstr "Xóa quy định"
+
+#: addons/redirects/admin/admin-functions.php:113
+msgid "You did not specify a redirection URL."
+msgstr "Bạn không chỉ định một URL chuyển hướng."
+
+#: addons/redirects/admin/admin-functions.php:115
+msgid ""
+"You did not specify any custom condition (e.g. specific user) for this "
+"redirection."
+msgstr ""
+"Bạn không chỉ định bất kỳ điều kiện tùy chỉnh (ví dụ như người dùng cụ thể) "
+"để chuyển hướng này."
+
+#: addons/redirects/admin/admin.php:27
+msgid "Login Redirects"
+msgstr "Chuyển hướng Đăng nhập"
+
+#: addons/redirects/admin/admin.php:28
+msgid "Registration Redirects"
+msgstr "Chuyển hướng đăng ký"
+
+#: addons/redirects/admin/admin.php:29
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: addons/redirects/admin/admin.php:69
+msgid "Advanced Redirection"
+msgstr "Chuyển hướng Nâng cao"
+
+#: addons/redirects/admin/panels/login_redirects.php:3
+#: addons/redirects/admin/panels/register_redirects.php:3
+msgid "Add New Redirection Rule"
+msgstr "Thêm mới Quy định chuyển hướng"
+
+#: addons/redirects/admin/panels/login_redirects.php:4
+#: addons/redirects/admin/panels/register_redirects.php:4
+msgid ""
+"The top rules always have higher priority. So any new rule you add will be "
+"higher in priority and checked first in the redirection rules during login "
+"or registering (depending on where you set the redirection)."
+msgstr ""
+"Các quy tắc hàng đầu luôn luôn có ưu tiên cao hơn. Vì vậy, bất kỳ quy tắc "
+"mới bạn thêm sẽ cao hơn trong ưu tiên và kiểm tra đầu tiên trong các quy tắc "
+"chuyển hướng trong thời gian đăng nhập hoặc đăng ký (tùy thuộc vào nơi bạn "
+"thiết lập các chuyển hướng)."
+
+#: addons/redirects/admin/panels/login_redirects.php:5
+#: addons/redirects/admin/panels/register_redirects.php:5
+msgid ""
+"You can setup a rule for a specific role, or a specific user, or perhaps "
+"redirect all users who choose United States as country to be redirected to a "
+"custom page. This addon also supports automatic mapping. Please check the "
+"help tab for examples and help."
+msgstr ""
+"Bạn có thể thiết lập một quy tắc cho một vai trò cụ thể, hoặc một người dùng "
+"cụ thể, hoặc có thể chuyển hướng tất cả những người dùng lựa chọn Hoa Kỳ là "
+"quốc gia được chuyển hướng tới một trang tùy chỉnh. Addon này cũng hỗ trợ "
+"lập bản đồ tự động. Hãy kiểm tra các tab giúp đỡ cho các ví dụ và giúp đỡ."
+
+#: addons/redirects/admin/panels/login_redirects.php:11
+#: addons/redirects/admin/panels/register_redirects.php:11
+msgid "&mdash; For a specific role &mdash;"
+msgstr "&mdash;  Đối với một vai trò cụ thể &mdash;"
+
+#: addons/redirects/admin/panels/login_redirects.php:16
+#: addons/redirects/admin/panels/register_redirects.php:16
+msgid "&mdash; For a user / all users &mdash;"
+msgstr " &mdash; Đối với một người sử dụng / tất cả người dùng  &mdash;"
+
+#: addons/redirects/admin/panels/login_redirects.php:21
+#: addons/redirects/admin/panels/register_redirects.php:21
+msgid "&mdash; For a custom field &mdash;"
+msgstr " &mdash; Đối với một trường tùy biến  &mdash;"
+
+#: addons/redirects/admin/panels/login_redirects.php:26
+#: addons/redirects/admin/panels/register_redirects.php:26
+msgid ""
+"If you want redirection based on specific <strong>custom field value</"
+"strong> enter the value here: (e.g. country or city) This is helpful if you "
+"wish to redirect users who have a specific city in profile, be redirected to "
+"a custom page after their login. If you wish to <strong>auto-map</strong> or "
+"redirect users automatically based on the custom field value you could use "
+"wildcards like this: <strong>{your_custom_field}</strong> in the redirection "
+"URL. The wildcard will also work on {username}"
+msgstr ""
+"Nếu bạn muốn chuyển hướng dựa trên <strong> giá trị trường tùy chỉnh cụ thể "
+"</ strong> nhập giá trị ở đây: (ví dụ như quốc gia hoặc thành phố) này là "
+"hữu ích nếu bạn muốn chuyển hướng người dùng có một thành phố cụ thể trong "
+"hồ sơ cá nhân, được chuyển đến một tùy chỉnh trang sau khi đăng nhập của họ. "
+"Nếu bạn muốn <strong> tự động bản đồ </ strong> hoặc chuyển hướng người dùng "
+"tự động dựa trên giá trị trường tùy chỉnh mà bạn có thể sử dụng ký tự đại "
+"diện như thế này: <strong> {your_custom_field} </ strong> trong URL chuyển "
+"hướng. Các ký tự đại diện cũng sẽ làm việc trên {username}"
+
+#: addons/redirects/admin/panels/login_redirects.php:27
+#: addons/redirects/admin/panels/register_redirects.php:27
+msgid "Enter field value"
+msgstr "Nhập giá trị"
+
+#: addons/redirects/admin/panels/login_redirects.php:31
+#: addons/redirects/admin/panels/register_redirects.php:31
+msgid ""
+"You can use wildcards for automated mapping. For example, if you enter "
+"{username} that will be replaced automatically by the username in "
+"redirection url. If you want to map a custom field <strong>country</strong> "
+"then use the wildcart {country} to map the user to his country "
+"automatically. If you use wildcards, the field value is not required."
+msgstr ""
+"Bạn có thể sử dụng ký tự đại diện cho lập bản đồ tự động. Ví dụ, nếu bạn "
+"nhập {username} sẽ được tự động thay thế bởi tên người dùng trong url chuyển "
+"hướng. Nếu bạn muốn một bản đồ đất nước <strong> lĩnh vực tùy chỉnh </ "
+"strong> sau đó sử dụng wildcart {country} để lập bản đồ sử dụng đất nước của "
+"mình tự động. Nếu bạn sử dụng các kí hiệu, giá trị trường là không cần thiết."
+
+#: addons/redirects/admin/panels/login_redirects.php:32
+#: addons/redirects/admin/panels/register_redirects.php:32
+msgid "Enter redirection URL here."
+msgstr "Nhập URL chuyển hướng ở đây."
+
+#: addons/redirects/admin/panels/login_redirects.php:34
+#: addons/redirects/admin/panels/register_redirects.php:34
+msgid "Submit New Rule"
+msgstr "Gửi quy định mới"
+
+#: addons/redirects/admin/panels/login_redirects.php:49
+msgid "Existing Login Redirects"
+msgstr "Đã có chuyển hướng đăng nhập"
+
+#: addons/redirects/admin/panels/register_redirects.php:49
+msgid "Existing Register Redirects"
+msgstr "Đã có Chuyển hướng Đăng ký"
+
+#: addons/social/admin/admin.php:28 admin/admin.php:33
+msgid "Page Setup"
+msgstr "Thiết lập trang"
+
+#: addons/social/admin/admin.php:62
+msgid "Social Extension"
+msgstr "Tiện ích Mạng Xã Hội"
+
+#: addons/social/admin/panels/pages.php:3 admin/panels/pages.php:3
+msgid ""
+"You must update your permalinks or Save Changes on your permalinks setup for "
+"the nice URLs to work fine."
+msgstr ""
+"Bạn phải cập nhật permalinks của bạn hoặc vào Lưu Thay đổi về thiết lập "
+"permalinks của bạn cho các URL tốt đẹp để làm việc tốt."
+
+#: addons/social/admin/panels/pages.php:5 admin/panels/pages.php:5
+msgid "Manage Page Slugs"
+msgstr "Quản lý Slugs trang"
+
+#: addons/social/admin/panels/pages.php:6 admin/panels/pages.php:6
+msgid ""
+"For a better multi-language experience, UserPro allow you to edit the slugs "
+"of the official registration/profile pages here. You must rebuild pages If "
+"you changed your slugs for the new slugs to take effect."
+msgstr ""
+"Cho một trải nghiệm đa ngôn ngữ tốt hơn, UserPro cho phép bạn chỉnh sửa các "
+"sên của các trang đăng ký / hồ sơ chính thức ở đây. Bạn phải xây dựng lại "
+"trang Nếu bạn thay đổi sên của bạn cho sên mới có hiệu lực."
+
+#: addons/social/admin/panels/pages.php:10
+msgid "\"Following\" Slug"
+msgstr "\"Following\" Slug"
+
+#: addons/social/admin/panels/pages.php:15
+msgid "\"Followers\" Slug"
+msgstr "\"Followers\" Slug"
+
+#: addons/social/admin/panels/pages.php:26
+msgid "Check / Rebuild Extension Pages"
+msgstr "Kiểm tra / Xây dựng lại trang mở rộng"
+
+#: addons/social/admin/panels/pages.php:27
+msgid ""
+"By default, the extension creates frontend pages automatically. However if "
+"for some reason, these pages were removed or deleted you can rebuild them "
+"here."
+msgstr ""
+"Theo mặc định, mở rộng lối vào tạo ra các trang tự động. Tuy nhiên, nếu vì "
+"lý do nào, các trang này đã được gỡ bỏ hoặc xóa bạn có thể xây dựng lại "
+"chúng ở đây."
+
+#: addons/social/admin/panels/pages.php:31
+msgid "Following Page"
+msgstr "Trang Theo Dõi"
+
+#: addons/social/admin/panels/pages.php:35
+#: addons/social/admin/panels/pages.php:48 admin/admin-functions.php:236
+#: admin/admin-functions.php:270 admin/panels/pages.php:55
+#: admin/panels/pages.php:68 admin/panels/pages.php:81
+#: admin/panels/pages.php:94 admin/panels/pages.php:107
+#: admin/panels/pages.php:120
+msgid "View Page"
+msgstr "Xem trang"
+
+#: addons/social/admin/panels/pages.php:44
+msgid "Followers Page"
+msgstr "Trang Người theo dõi"
+
+#: addons/social/admin/panels/pages.php:59
+msgid "Rebuild Pages"
+msgstr "Xây dựng lại trang"
+
+#: addons/social/admin/panels/settings.php:3
+msgid "E-mail Notifications"
+msgstr "Thông báo E-mail"
+
+#: addons/social/admin/panels/settings.php:7
+msgid "Send e-mail notification when someone follow another user"
+msgstr "Gửi thông báo e-mail khi một người nào đó theo một người dùng khác"
+
+#: addons/social/admin/panels/settings.php:10
+#: addons/social/admin/panels/settings.php:25 admin/admin-functions.php:329
+#: admin/admin-functions.php:426 admin/panels/mail.php:25
+#: admin/panels/mail.php:35 admin/panels/settings.php:56
+#: admin/panels/settings.php:208 admin/panels/settings.php:218
+#: admin/panels/settings.php:233 admin/panels/settings.php:243
+#: admin/panels/settings.php:253 admin/panels/settings.php:263
+#: admin/panels/settings.php:273 admin/panels/settings.php:283
+#: admin/panels/settings.php:294 admin/panels/settings.php:304
+#: admin/panels/settings.php:374 admin/panels/settings.php:395
+#: admin/panels/settings.php:410 admin/panels/settings.php:420
+#: admin/panels/settings.php:474 admin/panels/settings.php:517
+#: admin/panels/settings.php:540 admin/panels/settings.php:584
+#: admin/panels/settings.php:594
+msgid "Yes"
+msgstr "Có"
+
+#: addons/social/admin/panels/settings.php:11
+#: addons/social/admin/panels/settings.php:26 admin/admin-functions.php:330
+#: admin/admin-functions.php:427 admin/panels/mail.php:26
+#: admin/panels/mail.php:36 admin/panels/settings.php:57
+#: admin/panels/settings.php:209 admin/panels/settings.php:219
+#: admin/panels/settings.php:234 admin/panels/settings.php:244
+#: admin/panels/settings.php:254 admin/panels/settings.php:264
+#: admin/panels/settings.php:274 admin/panels/settings.php:284
+#: admin/panels/settings.php:295 admin/panels/settings.php:305
+#: admin/panels/settings.php:375 admin/panels/settings.php:396
+#: admin/panels/settings.php:411 admin/panels/settings.php:421
+#: admin/panels/settings.php:475 admin/panels/settings.php:518
+#: admin/panels/settings.php:541 admin/panels/settings.php:585
+#: admin/panels/settings.php:595
+msgid "No"
+msgstr "Không."
+
+#: addons/social/admin/panels/settings.php:18
+msgid "Activity Stream"
+msgstr "Hoạt động"
+
+#: addons/social/admin/panels/settings.php:22
+msgid "Make public activity visible to guests"
+msgstr "Làm cho hoạt động công cộng có thể nhìn thấy khách"
+
+#: addons/social/admin/panels/settings.php:32
+msgid "No. of activities per page"
+msgstr "Số hoạt động mỗi trang"
+
+#: addons/social/admin/panels/settings.php:35
+msgid "The number of items in activity stream to load per page."
+msgstr "Số lượng mặt hàng trong luồng hoạt động để tải trên một trang."
+
+#: addons/social/admin/panels/settings.php:40
+msgid "Exclude these post types from activity"
+msgstr "Loại trừ các loại bài từ hoạt động"
+
+#: addons/social/admin/panels/settings.php:43
+msgid "A comma seperated list of post types to hide from activity."
+msgstr "Một dấu phẩy tách ra danh sách các bài loại để ẩn từ hoạt động."
+
+#: addons/social/functions/api.php:15
+#, php-format
+msgid "%s is now following you!"
+msgstr "%s bây giờ đang theo dõi bạn!"
+
+#: addons/social/functions/api.php:16 functions/defaults.php:48
+#: functions/defaults.php:55 functions/defaults.php:62
+#: functions/defaults.php:72 functions/defaults.php:77
+#: functions/defaults.php:83 functions/defaults.php:87
+msgid "Hi there,"
+msgstr "Chào bạn,"
+
+#: addons/social/functions/api.php:17
+#, php-format
+msgid ""
+"%s is now following you on %s! You can click the following link to view his/"
+"her profile:"
+msgstr ""
+"%s bây giờ đang theo bạn trên %s ! Bạn có thể nhấp vào liên kết sau để xem "
+"hồ sơ cá nhân của cô ấy/anh ấy:"
+
+#: addons/social/functions/api.php:19
+msgid "Or view your profile at:"
+msgstr "Hoặc xem hồ sơ của bạn tại địa chỉ:"
+
+#: addons/social/functions/api.php:21 functions/defaults.php:81
+#: functions/defaults.php:85 functions/defaults.php:91
+msgid ""
+"This is an automated notification that was sent to you by UserPro. No "
+"further action is needed."
+msgstr "Đây là một thông báo tự động được gửi cho bạn."
+
+#: addons/social/functions/api.php:41 addons/social/functions/api.php:51
+#: addons/social/functions/api.php:62 addons/social/functions/api.php:73
+#: addons/social/functions/api.php:86 addons/social/functions/api.php:104
+#: addons/social/functions/api.php:114
+#: addons/social/templates/followers.php:15
+#: addons/social/templates/followers.php:55
+#: addons/social/templates/following.php:15
+#: addons/social/templates/following.php:55 templates/edit.php:15
+#: templates/edit.php:17 templates/list.php:28 templates/logout.php:16
+#: templates/memberlist_v2.php:51 templates/online.php:32
+#: templates/online.php:55
+msgid "View Profile"
+msgstr "Xem hồ sơ"
+
+#: addons/social/functions/api.php:43
+msgid "is now a verified account."
+msgstr "Tài khoản của bạn đã được xác nhận."
+
+#: addons/social/functions/api.php:53
+#, php-format
+msgid "has published a <a href=\"%s\">new %s</a>."
+msgstr "đã xuất bản một <a href=\"%s\">new %s</a>."
+
+#: addons/social/functions/api.php:64
+#, php-format
+msgid "has updated a <a href=\"%s\">%s</a>."
+msgstr "đã cập nhật một <a href=\"%s\">%s</a>."
+
+#: addons/social/functions/api.php:75
+msgid "has posted a new comment on:"
+msgstr "đã đăng nhận xét mới về:"
+
+#: addons/social/functions/api.php:88
+#, php-format
+msgid "has started following <a href=\"%s\">%s</a>"
+msgstr "đã bắt đầu theo dõi <a href=\"%s\">%s</a>"
+
+#: addons/social/functions/api.php:106
+#, php-format
+msgid "has stopped following <a href=\"%s\">%s</a>"
+msgstr "đã ngừng theo dõi <a href=\"%s\">%s</a>"
+
+#: addons/social/functions/api.php:116
+msgid "has just registered!"
+msgstr "vừa đăng ký!"
+
+#: addons/social/functions/api.php:140 addons/social/functions/api.php:158
+msgid "you"
+msgstr "bạn"
+
+#: addons/social/functions/api.php:201
+#, php-format
+msgid "<span>%s</span> following"
+msgstr "<span> %s </ span> theo dõi"
+
+#: addons/social/functions/api.php:225
+#, php-format
+msgid "<span>%s</span> followers"
+msgstr "<span> %s </ span> người theo dõi"
+
+#: addons/social/functions/api.php:277 addons/social/functions/api.php:279
+msgid "Follow"
+msgstr "Theo dõi"
+
+#: addons/social/functions/api.php:277 addons/social/functions/api.php:279
+msgid "Unfollow"
+msgstr "Huỷ theo dõi"
+
+#: addons/social/functions/api.php:277 addons/social/functions/api.php:279
+#: addons/social/functions/initial-setup.php:19
+#: addons/social/functions/shortcode-main.php:6
+msgid "Following"
+msgstr "đang theo dõi"
+
+#: addons/social/functions/initial-setup.php:33
+#: addons/social/functions/shortcode-main.php:7
+msgid "Followers"
+msgstr "Người theo dõi"
+
+#: addons/social/functions/shortcode-main.php:8
+msgid "Recent Activity"
+msgstr "Hoạt động gần đây"
+
+#: addons/social/templates/activity.php:3
+#: addons/social/templates/followers.php:3
+#: addons/social/templates/following.php:3 templates/card.php:3
+#: templates/change.php:3 templates/delete.php:3 templates/edit.php:3
+#: templates/list.php:3 templates/login.php:3 templates/logout.php:3
+#: templates/online.php:3 templates/publish.php:3 templates/register.php:3
+#: templates/registration_closed.php:3 templates/request_verify.php:3
+#: templates/reset.php:3 templates/view.php:3
+msgid "Close"
+msgstr "Đóng"
+
+#: addons/social/templates/activity.php:39
+msgid "View more activity"
+msgstr "Xem nhiều hoạt động hơn"
+
+#: addons/social/templates/activity.php:46
+msgid "There is no recent activity from the users you follow yet."
+msgstr "Không có hoạt động gần đây của người dùng bạn làm theo được nêu ra."
+
+#: addons/social/templates/followers.php:75
+msgid "You do not have anyone who started following you yet."
+msgstr "Bạn không có bất cứ ai đang theo dõi bạn."
+
+#: addons/social/templates/followers.php:77
+msgid "This user does not have anyone who started following him/her yet."
+msgstr "Người sử dụng này không có bất cứ ai theo dõi anh / cô ấy."
+
+#: addons/social/templates/following.php:75
+msgid "You have not started following anyone yet."
+msgstr "Bạn chưa theo dõi ai cả."
+
+#: addons/social/templates/following.php:77
+msgid "This user have not started following anyone yet."
+msgstr "Người sử dụng này chưa theo dõi ai cả."
+
+#: admin/admin-functions.php:21
+msgid ""
+"Displays the admin email that users can contact you at. You can configure it "
+"under Mail settings."
+msgstr ""
+"Hiển thị các email quản trị người dùng có thể liên lạc với bạn tại. Bạn có "
+"thể cấu hình nó theo các thiết lập Mail."
+
+#: admin/admin-functions.php:22
+msgid "Displays blog name"
+msgstr "Tên hiển thị diễn đàn"
+
+#: admin/admin-functions.php:23
+msgid "Displays the UserPro login page"
+msgstr "Hiển thị các trang đăng nhập UserPro"
+
+#: admin/admin-functions.php:24
+msgid "Displays the Username of user"
+msgstr "Tên hiển thị của người sử dụng"
+
+#: admin/admin-functions.php:25
+msgid "Displays the E-mail address of user"
+msgstr "Hiển thị địa chỉ E-mail của người sử dụng"
+
+#: admin/admin-functions.php:26
+msgid "Displays the User Profile address"
+msgstr "Hiển thị địa chỉ Profile"
+
+#: admin/admin-functions.php:27
+msgid "Outputs all profile fields in the e-mail"
+msgstr "Kết quả đầu ra tất cả các lĩnh vực thông tin trong e-mail"
+
+#: admin/admin-functions.php:28
+msgid ""
+"The account validation URL that user receives after signing up (If you "
+"enable e-mail validation feature)"
+msgstr ""
+"URL xác nhận tài khoản mà người dùng nhận được sau khi đăng ký (Nếu bạn kích "
+"hoạt tính năng xác nhận e-mail)"
+
+#: admin/admin-functions.php:32
+msgid "Custom Variable 1"
+msgstr "Biến Tuỳ chỉnh 1"
+
+#: admin/admin-functions.php:45
+#, php-format
+msgid "%s fields available"
+msgstr "%s trường có sẵn"
+
+#: admin/admin-functions.php:78
+msgid "Edit Field"
+msgstr "Sửa"
+
+#: admin/admin-functions.php:80
+msgid "Delete Field"
+msgstr "Dòng trường"
+
+#: admin/admin-functions.php:214 admin/admin-functions.php:256
+msgid "Registration Fields"
+msgstr "Trường đăng ký"
+
+#: admin/admin-functions.php:215 admin/admin-functions.php:257
+msgid "Edit Profile Fields"
+msgstr "Sửa Chữa Trường Hồ Sơ"
+
+#: admin/admin-functions.php:216 admin/admin-functions.php:258
+msgid "Login Fields"
+msgstr "Trường Đăng nhập"
+
+#: admin/admin-functions.php:217 admin/admin-functions.php:259
+msgid "Social Fields"
+msgstr "Các lĩnh vực xã hội"
+
+#: admin/admin-functions.php:238 admin/admin-functions.php:273
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: admin/admin-functions.php:239 admin/admin-functions.php:274
+#: functions/custom-alerts.php:24 functions/custom-alerts.php:33
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/admin-functions.php:291
+msgid "Label"
+msgstr "Nhăn"
+
+#: admin/admin-functions.php:292 admin/panels/fields.php:97
+msgid "Help Text"
+msgstr "Trợ giúp"
+
+#: admin/admin-functions.php:293
+msgid "Placeholder"
+msgstr "Giữ chỗ"
+
+#: admin/admin-functions.php:294
+msgid "Ajax Check Callback (advanced)"
+msgstr "Ajax Kiểm tra gọi lại (nâng cao)"
+
+#: admin/admin-functions.php:295
+msgid "Heading Text"
+msgstr "Nhóm văn bản"
+
+#: admin/admin-functions.php:296
+msgid "Collapsible Section"
+msgstr "Phần đóng mở"
+
+#: admin/admin-functions.php:297
+msgid "Collapsed"
+msgstr "Đã thu gọn"
+
+#: admin/admin-functions.php:298
+msgid "Upload Button Text"
+msgstr "Nút Tải lên"
+
+#: admin/admin-functions.php:299
+msgid "MailChimp List ID"
+msgstr "Danh sách MailChimp ID"
+
+#: admin/admin-functions.php:300
+msgid "MailChimp Subscribe Text"
+msgstr "MailChimp Theo dõi Tiêu đề"
+
+#: admin/admin-functions.php:308
+msgid "Drag fields / sections into this area"
+msgstr "Lĩnh vực kéo / phần vào khu vực này"
+
+#: admin/admin-functions.php:409
+msgid "Add Seperator / Section"
+msgstr "Thêm Ngăn Cách / Mục"
+
+#: admin/admin-functions.php:412
+msgid "My Custom Heading"
+msgstr "Tuỳ chỉnh nhóm của tôi"
+
+#: admin/admin-functions.php:462
+msgid "Broken page. Please rebuild plugin pages."
+msgstr "Trang bị phá vỡ. Hãy xây dựng lại trang plugin."
+
+#: admin/admin-functions.php:468
+msgid "Text Input"
+msgstr "Văn bản đầu vào"
+
+#: admin/admin-functions.php:469
+msgid "Photo Upload"
+msgstr "Hình ảnh Tải lên"
+
+#: admin/admin-functions.php:470
+msgid "File Upload"
+msgstr "Tải tập tin lên"
+
+#: admin/admin-functions.php:471
+msgid "Textarea"
+msgstr "Ô văn bản"
+
+#: admin/admin-functions.php:472
+msgid "Select Dropdown"
+msgstr "Chọn Dropdown"
+
+#: admin/admin-functions.php:473
+msgid "Multiselect Box"
+msgstr "Multiselect Box"
+
+#: admin/admin-functions.php:474
+msgid "Checkbox (floating)"
+msgstr "Hộp kiểm (nổi)"
+
+#: admin/admin-functions.php:475
+msgid "Checkbox (full width)"
+msgstr "Hộp kiểm (chiều rộng)"
+
+#: admin/admin-functions.php:476
+msgid "Radio Choice (floating)"
+msgstr "Sự lựa chọn đài phát thanh (nổi)"
+
+#: admin/admin-functions.php:477
+msgid "Radio Choice (full width)"
+msgstr "Sự lựa chọn vô tuyến (chiều rộng)"
+
+#: admin/admin-functions.php:478
+msgid "MailChimp Newsletter Subscription"
+msgstr "MailChimp tin thuê bao"
+
+#: admin/admin-functions.php:479
+msgid "Password Field"
+msgstr "Dòng mật khẩu"
+
+#: admin/admin-functions.php:480
+msgid "Password Strength Meter"
+msgstr "Sức mạnh mật khẩu Meter"
+
+#: admin/admin-functions.php:534
+msgid "Each field must have a title."
+msgstr "Từng lĩnh vực phải có một tiêu đề."
+
+#: admin/admin-functions.php:536
+msgid "Please enter a unique key or choose an existing usermeta."
+msgstr "Xin vui lòng nhập một khóa duy nhất hoặc chọn một usermeta hiện có."
+
+#: admin/admin-functions.php:548
+msgid "This existing usermeta already exists in your fields list below."
+msgstr ""
+"Usermeta này hiện đã tồn tại trong danh sách các lĩnh vực của bạn dưới đây."
+
+#: admin/admin-functions.php:550
+msgid "This unique key already exists in your fields list below."
+msgstr ""
+"Chìa khóa duy nhất này đã tồn tại trong danh sách các lĩnh vực của bạn dưới "
+"đây."
+
+#: admin/admin-users.php:6
+msgid "Verified"
+msgstr "Xác minh"
+
+#: admin/admin.php:26
+msgid "Customize Fields"
+msgstr "Tùy chỉnh lĩnh vực"
+
+#: admin/admin.php:27
+msgid "Global Options"
+msgstr "Tùy chọn toàn cầu"
+
+#: admin/admin.php:28
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/admin.php:29
+msgid "Restrict Content"
+msgstr "Hạn chế nội dung"
+
+#: admin/admin.php:30
+msgid "Emails & Notifications"
+msgstr "Email & Thông báo"
+
+#: admin/admin.php:31
+#, php-format
+msgid "%s Pending Verification"
+msgstr "%s xác nhận chờ"
+
+#: admin/admin.php:32
+msgid "Role-based Fields"
+msgstr "Các lĩnh vực dựa trên vai trò"
+
+#: admin/admin.php:105
+#, php-format
+msgid "%d new verification requests"
+msgstr "%d yêu cầu xác minh mới"
+
+#: admin/admin.php:107
+#, php-format
+msgid "UserPro %s"
+msgstr "UserPro %s"
+
+#: admin/admin.php:109 admin/admin.php:112
+msgid "UserPro"
+msgstr "UserPro"
+
+#: admin/admin.php:158
+#, php-format
+msgid "%s files deleted."
+msgstr "%s file đã bị xóa."
+
+#: admin/admin.php:171
+#, php-format
+msgid "%s unused folders deleted."
+msgstr "%s không sử dụng các thư mục bị xóa."
+
+#: admin/admin.php:175
+msgid "Online users data is reset."
+msgstr "Người sử dụng dữ liệu trực tuyến được thiết lập lại."
+
+#: admin/admin.php:224
+msgid "You did not specify a group name."
+msgstr "Bạn không chỉ định một tên nhóm."
+
+#: admin/admin.php:231
+msgid "This group exists already."
+msgstr "Nhóm này đã tồn tại."
+
+#: admin/admin.php:235
+msgid "Group created."
+msgstr "Nhóm tạo ra."
+
+#: admin/admin.php:243
+msgid "WooCommerce fields have been added."
+msgstr "Lĩnh vực WooCommerce đã được thêm vào."
+
+#: admin/admin.php:248
+msgid "WooCommerce fields have been removed."
+msgstr "Lĩnh vực WooCommerce đã được gỡ bỏ."
+
+#: admin/admin.php:257
+msgid "UserPro has been reset to factory settings. REFRESH this page twice!"
+msgstr ""
+"UserPro đã được thiết lập lại nhà máy cài đặt. REFRESH trang này hai lần!"
+
+#: admin/panels/fieldroles.php:3
+msgid ""
+"Here you can set fields to be available for certain role(s) only. For "
+"example, If you wish to make a set of fields not visible to Subscriber role, "
+"or want to make other fields available only to a Customer role. This does "
+"the job for you."
+msgstr ""
+"Ở đây bạn có thể thiết lập các lĩnh vực để sẵn sàng cho vai trò nhất định "
+"(s) chỉ. Ví dụ, Nếu bạn muốn thực hiện một tập hợp các lĩnh vực không thể "
+"nhìn thấy vai trò thuê bao, hoặc muốn thực hiện các lĩnh vực khác chỉ dành "
+"cho một vai trò khách hàng. Này không được công việc cho bạn."
+
+#: admin/panels/fields.php:6
+msgid "How to edit the field settings?"
+msgstr "Làm thế nào để chỉnh sửa cài đặt lĩnh vực?"
+
+#: admin/panels/fields.php:7
+msgid ""
+"This plugin uses small icons for quick ajax editing for a field. Each icon "
+"means something, this little guide will show you how to control each field "
+"quickly and instantly."
+msgstr ""
+"Plugin này sử dụng các biểu tượng nhỏ để chỉnh sửa ajax nhanh chóng cho một "
+"lĩnh vực. Mỗi biểu tượng có nghĩa là một cái gì đó, hướng dẫn này ít sẽ cho "
+"bạn thấy làm thế nào để kiểm soát từng lĩnh vực một cách nhanh chóng và ngay "
+"lập tức."
+
+#: admin/panels/fields.php:8
+msgid ""
+"A transparent icon means the setting is turned off. A full-color icon means "
+"the setting is turned on. Click on any icon to switch the state of it on and "
+"off."
+msgstr ""
+"Một biểu tượng minh bạch có nghĩa là các thiết lập đã được tắt. Một biểu "
+"tượng đầy màu sắc có nghĩa là các thiết lập được bật. Nhấp vào bất kỳ biểu "
+"tượng để chuyển đổi trạng thái của nó và tắt."
+
+#: admin/panels/fields.php:11
+msgid "This removes the field from a selected group"
+msgstr "Điều này loại bỏ các lĩnh vực từ một nhóm được lựa chọn"
+
+#: admin/panels/fields.php:12
+msgid "Click that icon to edit field label and help text or other misc options"
+msgstr ""
+"Nhấn vào biểu tượng đó để chỉnh sửa nhãn trường và giúp văn bản hoặc tùy "
+"chọn misc khác"
+
+#: admin/panels/fields.php:13
+msgid "Make a field hideable from public by user"
+msgstr "Làm cho một hideable lĩnh vực từ công chúng bởi người sử dụng"
+
+#: admin/panels/fields.php:14
+msgid "Make a field hidden from public by default if field is hideable"
+msgstr ""
+"Làm cho một lĩnh vực ẩn từ công chúng theo mặc định nếu trường là hideable"
+
+#: admin/panels/fields.php:15
+msgid ""
+"Lock a field so that user cannot edit, but admins can still edit all fields"
+msgstr ""
+"Khóa một lĩnh vực để người sử dụng không thể chỉnh sửa, nhưng các quản trị "
+"viên vẫn có thể chỉnh sửa tất cả các lĩnh vực"
+
+#: admin/panels/fields.php:16
+msgid ""
+"Make a field private so that users cannot view or edit it, but admins will "
+"be able to view it"
+msgstr ""
+"Làm cho một lĩnh vực tư nhân để người dùng không thể xem hoặc chỉnh sửa nó, "
+"nhưng các quản trị viên sẽ có thể để xem nó"
+
+#: admin/panels/fields.php:17
+msgid "Make a field required"
+msgstr "Làm cho trường bắt buộc"
+
+#: admin/panels/fields.php:18
+msgid "Allow HTML in a field. e.g. If the field is textarea"
+msgstr ""
+"Cho phép HTML trong một lĩnh vực. ví dụ: Nếu lĩnh vực này là vùng văn bản"
+
+#: admin/panels/fields.php:28
+msgid "Before resetting, please remove all UserPro pages from your Pages."
+msgstr ""
+"Trước khi cài đặt lại, hãy loại bỏ tất cả các trang UserPro từ trang của bạn."
+
+#: admin/panels/fields.php:29
+msgid "Re-Install UserPro (Warning: This will reset all fields and settings)"
+msgstr ""
+"Cài đặt lại UserPro (Cảnh báo: Điều này sẽ thiết lập lại tất cả các lĩnh vực "
+"và các thiết lập)"
+
+#: admin/panels/fields.php:35
+msgid "Groups & Fields"
+msgstr "Nhóm & Fields"
+
+#: admin/panels/fields.php:35
+msgid "Reset All Groups"
+msgstr "Thiết lập lại tất cả các nhóm"
+
+#: admin/panels/fields.php:47
+msgid "Drag & Drop your fields into Forms"
+msgstr "Kéo và thả các lĩnh vực của bạn vào hình thức"
+
+#: admin/panels/fields.php:48
+msgid ""
+"Each field presents a bit of data or a meta key about the user. This allow "
+"you to drag any field to any form you want but be careful, not every field "
+"is suitable for any form. e.g. It makes no sense to add Country to your "
+"login shortcode."
+msgstr ""
+"Từng lĩnh vực trình bày một bit dữ liệu hoặc một phím meta về người dùng. "
+"Điều này cho phép bạn kéo bất kỳ lĩnh vực bất kỳ hình thức bạn muốn nhưng "
+"hãy cẩn thận, không phải tất cả lĩnh vực phù hợp cho mọi hình thức. ví dụ: "
+"Nó làm cho không có ý nghĩa để thêm gia để shortcode đăng nhập của bạn."
+
+#: admin/panels/fields.php:53
+msgid "Add New Field / Add or Sync Existing Data"
+msgstr "Add New Field / Add or Sync dữ liệu đã có"
+
+#: admin/panels/fields.php:54
+msgid ""
+"You can add any field to your forms such as City, Address, or anything else "
+"by clicking on <strong>Add New Field</strong> The plugin will automatically "
+"sync/recognize any meta key stored in your user database, so you could "
+"display the value of any existing meta data."
+msgstr ""
+"Bạn có thể thêm bất kỳ lĩnh vực với các hình thức của bạn như thành phố, địa "
+"chỉ, hoặc bất cứ điều gì khác bằng cách nhấp vào Add New <strong> Dòng </ "
+"strong> Các plugin sẽ tự động đồng bộ / nhận bất kỳ phím nào được lưu giữ "
+"trong cơ sở dữ liệu meta người dùng của bạn, vì vậy bạn có thể hiển thị giá "
+"trị của bất kỳ thông tin dữ liệu hiện có."
+
+#: admin/panels/fields.php:55
+msgid "Add New Field"
+msgstr "Thêm New Field"
+
+#: admin/panels/fields.php:64
+msgid "Field Title"
+msgstr "Trường Tiêu đề"
+
+#: admin/panels/fields.php:66
+msgid ""
+"Enter title for this data. example: City, How did you hear about us, "
+"Twitter, Personal Website, etc."
+msgstr ""
+"Nhập tiêu đề cho dữ liệu này. Ví dụ: Thành phố, Làm thế nào bạn biết đến "
+"chúng tôi, Twitter, trang web cá nhân, vv"
+
+#: admin/panels/fields.php:70
+msgid "Field Type"
+msgstr "Loại lĩnh vực"
+
+#: admin/panels/fields.php:72
+msgid ""
+"The type of field or how a user is going to enter this data (via text, "
+"selecting a choice from dropdown, etc)"
+msgstr ""
+"Các loại hình trường hoặc làm thế nào một người sử dụng sẽ nhập dữ liệu này "
+"(thông qua văn bản, lựa chọn một sự lựa chọn từ thả xuống, vv)"
+
+#: admin/panels/fields.php:76
+msgid "Allowed file extensions"
+msgstr "Mở rộng tập tin cho phép"
+
+#: admin/panels/fields.php:78
+msgid ""
+"A comma seperated list of allowed file types. If blank, default will be to "
+"zip, pdf, txt."
+msgstr ""
+"Một dấu phẩy tách ra danh sách các loại tập tin cho phép. Nếu để trống, mặc "
+"định sẽ là zip, pdf, txt."
+
+#: admin/panels/fields.php:82
+msgid "Builtin Choice List"
+msgstr "Danh sách dựng sẵn lựa chọn"
+
+#: admin/panels/fields.php:85
+msgid "Countries List"
+msgstr "Danh sách các nước"
+
+#: admin/panels/fields.php:86
+msgid "Roles"
+msgstr "Vai trò "
+
+#: admin/panels/fields.php:87
+msgid "You can also enter choices for this field manually below."
+msgstr "Bạn cũng có thể nhập sự lựa chọn cho lĩnh vực này bằng tay dưới đây."
+
+#: admin/panels/fields.php:91
+msgid "Manual Choices / Options"
+msgstr "Lựa chọn bằng tay / Tùy chọn"
+
+#: admin/panels/fields.php:93
+msgid "Please enter one choice per line!"
+msgstr "Xin vui lòng nhập một sự lựa chọn trên mỗi dòng!"
+
+#: admin/panels/fields.php:99
+msgid ""
+"Help text will be displayed below field to guide users what to put in that "
+"field or show any relevant info."
+msgstr ""
+"Văn bản trợ giúp sẽ được hiển thị dưới đây lĩnh vực để hướng dẫn người dùng "
+"những gì để đặt trong lĩnh vực đó hoặc hiển thị bất kỳ thông tin liên quan."
+
+#: admin/panels/fields.php:103
+msgid "Custom Placeholder"
+msgstr "Tùy chỉnh giữ chỗ"
+
+#: admin/panels/fields.php:109
+msgid "Setting up the user meta key"
+msgstr "Thiết lập các khóa meta sử dụng"
+
+#: admin/panels/fields.php:112
+msgid "Unique Field Key"
+msgstr "Độc đáo Dòng chính"
+
+#: admin/panels/fields.php:114
+msgid ""
+"Your field key must be unique for each field. It must be letters only with "
+"only underscore allowd between them."
+msgstr ""
+"Chính lĩnh vực của bạn phải là duy nhất cho mỗi trường. Nó phải là chữ chỉ "
+"với chỉ nhấn allowd giữa chúng."
+
+#: admin/panels/fields.php:117
+msgid "Or select/sync an existing meta field key"
+msgstr "Hoặc chọn / đồng bộ một lĩnh vực quan trọng meta hiện có"
+
+#: admin/panels/fields.php:119
+msgid ""
+"You can sync or use user meta from any other plugin directly and integrate "
+"it with UserPro. Unique key is not needed If you sync with existing field."
+msgstr ""
+"Bạn có thể đồng bộ hoặc sử dụng người sử dụng meta từ bất kỳ plugin nào trực "
+"tiếp và tích hợp nó với UserPro. Chìa khóa duy nhất là không cần thiết Nếu "
+"bạn đồng bộ với lĩnh vực hiện có."
+
+#: admin/panels/fields.php:124 functions/shortcode-main.php:169
+msgid "Publish"
+msgstr "Xuất bản"
+
+#: admin/panels/fields.php:125
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: admin/panels/fields.php:138
+msgid "Restore Default Fields"
+msgstr "Khôi phục Fields Mặc định"
+
+#: admin/panels/mail.php:3
+msgid "Outgoing Mail Settings"
+msgstr "Thiết lập Outgoing mail"
+
+#: admin/panels/mail.php:7
+msgid "The name that appears on mails sent by UserPro"
+msgstr "Tên xuất hiện trên mail được gửi bởi UserPro"
+
+#: admin/panels/mail.php:12
+msgid "The address that appears on mails sent by UserPro"
+msgstr "Địa chỉ xuất hiện trên mail được gửi bởi UserPro"
+
+#: admin/panels/mail.php:18
+msgid "Email Notifications"
+msgstr "Thông báo email"
+
+#: admin/panels/mail.php:22
+msgid "Send admin an e-mail when user updates profile"
+msgstr "Gửi quản trị e-mail khi cập nhật hồ sơ người dùng"
+
+#: admin/panels/mail.php:32
+msgid "Send admin an e-mail when profile gets removed"
+msgstr "Gửi quản trị e-mail khi hồ sơ bị loại bỏ"
+
+#: admin/panels/mail.php:43
+msgid "Variables you can use to build your mail templates"
+msgstr "Biến bạn có thể sử dụng để xây dựng các mẫu thư của bạn"
+
+#: admin/panels/mail.php:44
+msgid ""
+"The variables in {CURLY BRACKETS} are used to present data and info in "
+"email. You can use them to customize your email template."
+msgstr ""
+"Các biến trong {CURLY BRACKETS} xoăn, bảng được sử dụng để trình bày dữ liệu "
+"và thông tin trong email. Bạn có thể sử dụng chúng để tùy chỉnh mẫu email "
+"của bạn."
+
+#: admin/panels/mail.php:46
+msgid "Customize the New Registration e-mail sent to Admin"
+msgstr "Tùy chỉnh đăng ký e-mail mới gửi đến Sơ"
+
+#: admin/panels/mail.php:50 admin/panels/mail.php:60 admin/panels/mail.php:70
+#: admin/panels/mail.php:80 admin/panels/mail.php:90
+msgid "Email Content"
+msgstr "Email Nội dung"
+
+#: admin/panels/mail.php:56
+msgid "Customize \"Email Validation\" Mail"
+msgstr "Tùy chỉnh \"Email Validation\" Mail"
+
+#: admin/panels/mail.php:66
+msgid "Customize \"New Account/Welcome\" Mail"
+msgstr "Tùy chỉnh \"New Account/Welcome\" Mail"
+
+#: admin/panels/mail.php:76
+msgid "Customize \"Reset Password\" Mail"
+msgstr "Tùy chỉnh \"Reset Password\" Mail"
+
+#: admin/panels/mail.php:86
+msgid "Customize \"Account Removal\" Mail"
+msgstr "Tùy chỉnh \"Account Removal\" Mail"
+
+#: admin/panels/pages.php:10
+msgid "\"Profile\" Slug"
+msgstr "\"Profile\" Slug"
+
+#: admin/panels/pages.php:15
+msgid "\"Register\" Slug"
+msgstr "\"Register\" Slug"
+
+#: admin/panels/pages.php:20
+msgid "\"Edit Profile\" Slug"
+msgstr "\"Edit Profile\" Slug"
+
+#: admin/panels/pages.php:25
+msgid "\"Login\" Slug"
+msgstr "\"Login\" Slug"
+
+#: admin/panels/pages.php:30
+msgid "\"Member Directory\" Slug"
+msgstr "\"Member Directory\" Slug"
+
+#: admin/panels/pages.php:35
+msgid "\"Logout\" Slug"
+msgstr "\"Logout\" Slug"
+
+#: admin/panels/pages.php:46
+msgid "Check / Rebuild Profile Pages"
+msgstr "Kiểm tra / Xây dựng lại hồ sơ Trang"
+
+#: admin/panels/pages.php:47
+msgid ""
+"By default, UserPro creates profile pages and front-end registration/login "
+"pages automatically. However if for some reason, these pages were removed or "
+"deleted you can rebuild them here."
+msgstr ""
+"Theo mặc định, UserPro tạo ra các trang hồ sơ cá nhân và trang đăng ký / "
+"đăng nhập đầu cuối tự động. Tuy nhiên, nếu vì lý do nào, các trang này đã "
+"được gỡ bỏ hoặc xóa bạn có thể xây dựng lại chúng ở đây."
+
+#: admin/panels/pages.php:51
+msgid "Profile Page"
+msgstr "Hồ sơ"
+
+#: admin/panels/pages.php:64
+msgid "Registration Page"
+msgstr "Trang đăng ký"
+
+#: admin/panels/pages.php:77
+msgid "Edit Profile Page"
+msgstr "Chỉnh sửa trang"
+
+#: admin/panels/pages.php:90
+msgid "Login Page"
+msgstr "Trang Đăng nhập"
+
+#: admin/panels/pages.php:103
+msgid "Member Directory Page"
+msgstr "Danh Mục Thành Viên"
+
+#: admin/panels/pages.php:116
+msgid "Logout Page"
+msgstr "Trang đăng xuất"
+
+#: admin/panels/pages.php:131
+msgid "Rebuild UserPro Pages"
+msgstr "Xây dựng lại UserPro"
+
+#: admin/panels/restrict.php:3
+msgid ""
+"Mass restrict pages by allowing access to members only for full-content. "
+"Unlike the UserPro shortcode which hides the content you specify only. This "
+"will lock all content page until the user is logged in. You can also bulk "
+"block/allow any pages you want."
+msgstr ""
+"Khối lượng hạn chế các trang bằng cách cho phép truy cập các thành viên chỉ "
+"cho đầy đủ nội dung. Không giống như các shortcode UserPro mà giấu nội dung "
+"bạn xác định chỉ. Điều này sẽ khóa tất cả các trang nội dung cho đến khi "
+"người sử dụng đăng nhập Bạn cũng có thể khối lượng lớn / cho phép bất kỳ "
+"trang nào bạn muốn."
+
+#: admin/panels/restrict.php:8
+msgid "Make Restricted Pages accessible to"
+msgstr "Làm cho trang bị hạn chế truy cập vào"
+
+#: admin/panels/restrict.php:11
+msgid "Only Verified Members"
+msgstr "Thành viên chỉ được xác minh"
+
+#: admin/panels/restrict.php:12
+msgid "All Registered Members"
+msgstr "Tất cả các thành viên đã đăng ký"
+
+#: admin/panels/restrict.php:18
+msgid "Choose one or more pages to restrict"
+msgstr "Chọn một hoặc nhiều trang để hạn chế"
+
+#: admin/panels/settings.php:3
+msgid "Quick Maintenance"
+msgstr "Bảo trì nhanh chóng"
+
+#: admin/panels/settings.php:7
+msgid "Clear unused Junk"
+msgstr "Xóa rác không sử dụng"
+
+#: admin/panels/settings.php:9
+msgid "Clear un-used uploads"
+msgstr "Rõ ràng chưa qua sử dụng cập nhật"
+
+#: admin/panels/settings.php:14 admin/panels/settings.php:16
+msgid "Clear deleted users stuff"
+msgstr "Rõ ràng xóa người dùng các công cụ"
+
+#: admin/panels/settings.php:21
+msgid "Purge online users data"
+msgstr "Tẩy người sử dụng dữ liệu trực tuyến"
+
+#: admin/panels/settings.php:23
+msgid "Reset online users"
+msgstr "Thiết lập lại người dùng trực tuyến"
+
+#: admin/panels/settings.php:29
+msgid "Module Settings"
+msgstr "Thiết lập mô-đun"
+
+#: admin/panels/settings.php:33
+msgid "Social Features"
+msgstr "Các tính năng xã hội"
+
+#: admin/panels/settings.php:36 admin/panels/settings.php:46
+#: admin/panels/settings.php:135
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: admin/panels/settings.php:37 admin/panels/settings.php:47
+msgid "Deactivate"
+msgstr "Hủy kích hoạt"
+
+#: admin/panels/settings.php:43
+msgid "Online/Offline Status"
+msgstr "Trạng thái Online / Offline"
+
+#: admin/panels/settings.php:53
+msgid "Show Offline Icon"
+msgstr "Hiện thị biểu tượng Offline"
+
+#: admin/panels/settings.php:64
+msgid "General"
+msgstr "Tổng quan"
+
+#: admin/panels/settings.php:68
+msgid "Membership"
+msgstr "Thành viên"
+
+#: admin/panels/settings.php:71
+msgid "Anyone can register"
+msgstr "Bất cứ ai cũng có thể đăng ký"
+
+#: admin/panels/settings.php:72
+msgid "Disable registration"
+msgstr "Vô hiệu hóa đăng ký"
+
+#: admin/panels/settings.php:78
+msgid "New User Approval"
+msgstr "Người dùng mới phê duyệt"
+
+#: admin/panels/settings.php:81
+msgid "Auto Approve"
+msgstr "Phê duyệt tự động"
+
+#: admin/panels/settings.php:82
+msgid "Require E-mail Activation"
+msgstr "Yêu cầu E-mail kích hoạt"
+
+#: admin/panels/settings.php:88
+msgid "Profile Permalink Structure"
+msgstr "Permalink Hồ sơ"
+
+#: admin/panels/settings.php:91
+msgid "User ID"
+msgstr "ID người dùng"
+
+#: admin/panels/settings.php:93
+msgid "Full Name"
+msgstr "Tên đầy đủ"
+
+#: admin/panels/settings.php:95
+msgid ""
+"User profiles permalink structure setting e.g. /profile/34 or /profile/"
+"Username or /profile/FirstName+LastName If you have a problem with permalink "
+"structure, you can try to change this setting."
+msgstr ""
+"Profile của người dùng cấu trúc permalink thiết lập ví dụ như / profile/34 "
+"hoặc / hồ sơ / Tên đăng nhập hoặc / hồ sơ / FirstName LastName + Nếu bạn có "
+"một vấn đề với cấu trúc permalink, bạn có thể cố gắng để thay đổi thiết lập "
+"này."
+
+#: admin/panels/settings.php:100
+msgid "Fields to hide completely from profile view"
+msgstr "Trường ẩn hoàn toàn từ xem hồ sơ cá nhân"
+
+#: admin/panels/settings.php:103
+msgid ""
+"A comma seperated list of custom fields to hide from profile view anyway."
+msgstr ""
+"Một dấu phẩy tách ra danh sách các lĩnh vực tùy chỉnh để ẩn từ xem tiểu sử "
+"này."
+
+#: admin/panels/settings.php:108
+msgid "Verified Badge Link"
+msgstr "Kích hoạt Huy hiệu Liên kết"
+
+#: admin/panels/settings.php:111
+msgid "Should the verified badge link to a specific page?"
+msgstr "Nên các liên kết huy hiệu xác nhận một trang cụ thể?"
+
+#: admin/panels/settings.php:117
+msgid "Compatibility Settings"
+msgstr "Thiết lập tính tương thích"
+
+#: admin/panels/settings.php:121
+msgid "Path Compatibility"
+msgstr "Khả năng tương thích con đường"
+
+#: admin/panels/settings.php:124
+msgid "Use Relative URIs"
+msgstr "Sử dụng URI tương đối"
+
+#: admin/panels/settings.php:125
+msgid "Use Full Paths (including domain)"
+msgstr "Sử dụng đường dẫn đầy đủ (bao gồm cả tên miền)"
+
+#: admin/panels/settings.php:127 admin/panels/settings.php:138
+msgid ""
+"If you use CDN or have a problem with thumbnails, try switching this option."
+msgstr ""
+"Nếu bạn sử dụng CDN hoặc có một vấn đề với hình thu nhỏ, hãy thử chuyển tùy "
+"chọn này."
+
+#: admin/panels/settings.php:132
+msgid "URL Encoding"
+msgstr "URL Encoding"
+
+#: admin/panels/settings.php:136
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+#: admin/panels/settings.php:143
+msgid "External Profile Pictures"
+msgstr "Hồ sơ Hình ảnh bên ngoài"
+
+#: admin/panels/settings.php:146
+msgid "Save them to my server"
+msgstr "Lưu chúng vào máy chủ của tôi"
+
+#: admin/panels/settings.php:147
+msgid "Use the external source"
+msgstr "Sử dụng các nguồn bên ngoài"
+
+#: admin/panels/settings.php:149
+msgid ""
+"If your host experience some problems when saving an external picture to "
+"your uploads directory, try to use the external method."
+msgstr ""
+"Nếu máy chủ của bạn kinh nghiệm một số vấn đề khi lưu một hình ảnh bên ngoài "
+"vào thư mục cập nhật của bạn, hãy thử sử dụng phương pháp bên ngoài."
+
+#: admin/panels/settings.php:155
+msgid "Appearance and Look"
+msgstr "Xuất hiện và nhìn"
+
+#: admin/panels/settings.php:159
+msgid "Use a Google Web Font"
+msgstr "Sử dụng Font Web Google"
+
+#: admin/panels/settings.php:162
+msgid ""
+"To use a Google Web Font for UserPro plugin, enter the font family name here."
+msgstr "Để sử dụng Font Web Google cho UserPro plugin, nhập tên font ở đây."
+
+#: admin/panels/settings.php:167
+msgid "Use an installed font"
+msgstr "Sử dụng một phông chữ được cài đặt"
+
+#: admin/panels/settings.php:170
+msgid ""
+"To override Google font and force plugin to use theme font, or another built "
+"in font please enter font face here (e.g. Open Sans, Arial, etc)"
+msgstr ""
+"Để ghi đè lên chữ và lực lượng cắm của Google để sử dụng font chủ đề hoặc "
+"khác được xây dựng trong phông chữ vui lòng nhập mặt chữ ở đây (ví dụ như mở "
+"cửa Sans, Arial, vv)"
+
+#: admin/panels/settings.php:175
+msgid "Plugin Default Width"
+msgstr "Độ rộng mặc định của Plugin"
+
+#: admin/panels/settings.php:178
+msgid ""
+"A pixel or % width. If you want to make the plugin default width take 100% "
+"of its parent, just change this setting to 100% (It will take as much space "
+"as possible from the parent element). This option can be customized also via "
+"shortcode option <code>max_width</code>."
+msgstr "Độ rộng bằng Pixel hoặc %. Nếu bạn muốn để mặc định thì nhập 100%. "
+
+#: admin/panels/settings.php:183
+msgid "Default Skin"
+msgstr "Skin mặc định"
+
+#: admin/panels/settings.php:195
+msgid "Fields Layout"
+msgstr "Trường Giao diện"
+
+#: admin/panels/settings.php:198
+msgid "Float (field label on same line)"
+msgstr "Float (nhãn trường trên cùng một dòng)"
+
+#: admin/panels/settings.php:199
+msgid "Block (field label on seperate line)"
+msgstr "Khóa"
+
+#: admin/panels/settings.php:205
+msgid "Enable Field Icons"
+msgstr "Cho phép Icons ở các Trường"
+
+#: admin/panels/settings.php:215
+msgid "Hide Top Bar from Non-Admins"
+msgstr "Ẩn Top Bar nếu không phải là Admin"
+
+#: admin/panels/settings.php:226
+msgid "Profile Settings"
+msgstr "Cài đặt hồ sơ"
+
+#: admin/panels/settings.php:230
+msgid "Allow guests to view other profiles"
+msgstr "Cho phép khách có thể xem hồ sơ thành viên"
+
+#: admin/panels/settings.php:240
+msgid "Allow members to view other member profiles"
+msgstr "Cho phép thành viên xem hồ sơ thành viên khác"
+
+#: admin/panels/settings.php:250
+msgid "Allow users to request verified status"
+msgstr "Cho phép thành viên gửi yêu cầu trạng thái kích hoạt"
+
+#: admin/panels/settings.php:260
+msgid "Allow users to delete their profiles"
+msgstr "Cho phép thành viên Xóa tài khoản của họ"
+
+#: admin/panels/settings.php:270
+msgid "Use default gravatars until users upload a custom avatar for this site"
+msgstr ""
+"Mặc định sử dụng Gravatars cho đến khi Thành viên thay đổi tại website."
+
+#: admin/panels/settings.php:280
+msgid "Allow admins to set custom notice on user accounts"
+msgstr "Cho phép Admin thiết lập thông báo cho tài khoản"
+
+#: admin/panels/settings.php:286
+msgid ""
+"e.g. Set a custom warning to any user profile for example: This account is "
+"for test purposes only, etc."
+msgstr ""
+"e.g. Thiết lập một cảnh báo tới bất kỳ thành viên. Ví dụ: Tài khoản này chỉ "
+"dành cho mục đích thử nghiệm,..."
+
+#: admin/panels/settings.php:291
+msgid "Show custom user notice to the logged-in user"
+msgstr "Hiễn thị thông báo tới thành viên đã đăng nhập"
+
+#: admin/panels/settings.php:301
+msgid "Show custom user notice to the public"
+msgstr "Hiễn thị thông báo thành viên"
+
+#: admin/panels/settings.php:312
+msgid "Redirection Settings (Hiding Dashboard)"
+msgstr "Thiết lập chuyển hướng (Ẩn Bảng điều khiển)"
+
+#: admin/panels/settings.php:313
+msgid ""
+"These settings help you hide the backend from normal users. You can control "
+"backend redirection precisely, these settings will not affect administrators."
+msgstr ""
+"Các cài đặt này giúp bạn ẩn các phụ trợ từ những người dùng bình thường. Bạn "
+"có thể kiểm soát chính xác chuyển hướng phụ trợ, các thiết lập này sẽ không "
+"ảnh hưởng đến các quản trị viên."
+
+#: admin/panels/settings.php:317
+msgid "Redirect backend to front-end"
+msgstr "Chuyển hướng phụ trợ để front-end"
+
+#: admin/panels/settings.php:320
+msgid "Redirect to front-end profile view"
+msgstr "Chuyển hướng xem hồ sơ đến Front-end "
+
+#: admin/panels/settings.php:321 admin/panels/settings.php:334
+#: admin/panels/settings.php:346 admin/panels/settings.php:358
+msgid "Redirect to custom URL"
+msgstr "Chuyển hướng tới URL tùy chọn"
+
+#: admin/panels/settings.php:322 admin/panels/settings.php:335
+#: admin/panels/settings.php:347 admin/panels/settings.php:359
+msgid "Do not redirect"
+msgstr "Không chuyển hướng"
+
+#: admin/panels/settings.php:324
+msgid "If you choose cutom URL for this redirect"
+msgstr "Nếu bạn chọn Tùy Chọn URL để chuyển hướng"
+
+#: admin/panels/settings.php:325
+msgid ""
+"You can redirect users to the built-in front-end pages by the plugin to hide "
+"backend access from them."
+msgstr ""
+"Bạn có thể chuyển hướng người dùng đến được xây dựng trong các trang front-"
+"end của plugin để ẩn truy cập phụ trợ từ họ."
+
+#: admin/panels/settings.php:330
+msgid "Redirect backend profile to front-end"
+msgstr "Chuyển hướng hồ sơ (Backend tới Front-end)."
+
+#: admin/panels/settings.php:333
+msgid "Redirect to front-end profile edit"
+msgstr "Chuyển hướng sửa hồ sơ tới Front-end."
+
+#: admin/panels/settings.php:337 admin/panels/settings.php:349
+#: admin/panels/settings.php:361
+msgid "If you choose custom URL for this redirect"
+msgstr "Nếu bạn chọn Tùy Chọn URL để chuyển hướng"
+
+#: admin/panels/settings.php:342
+msgid "Redirect backend registration to front-end"
+msgstr "Chuyển hướng đăng ký (từ Backend đến Front-end)"
+
+#: admin/panels/settings.php:345
+msgid "Redirect to front-end registration"
+msgstr "Chuyển hướng đăng ký (tới Front-end)"
+
+#: admin/panels/settings.php:354
+msgid "Redirect backend login to front-end"
+msgstr "Chuyển hướng đăng nhập (Từ Backend trên Front-end)"
+
+#: admin/panels/settings.php:357
+msgid "Redirect to front-end login"
+msgstr "Chuyên hướng tới trang đăng nhập (Front-end)"
+
+#: admin/panels/settings.php:367
+msgid "Login Settings"
+msgstr "Cài đặt đăng nhập"
+
+#: admin/panels/settings.php:371 admin/panels/settings.php:407
+msgid "Show logout If user is logged in already"
+msgstr "Hiện Đăng Xuất nếu thành viên đã đăng nhập"
+
+#: admin/panels/settings.php:381
+msgid "After a successful login"
+msgstr "Sau khi đăng ký thành công"
+
+#: admin/panels/settings.php:384 admin/panels/settings.php:430
+msgid "Refresh page only"
+msgstr "Chỉ làm mới trang"
+
+#: admin/panels/settings.php:385 admin/panels/settings.php:431
+msgid "Redirect user to front-end profile"
+msgstr "Chuyển hướng thành viên tới Hồ Sơ (Front-end)"
+
+#: admin/panels/settings.php:387
+msgid ""
+"You can also redirect users to custom URL by passing <code>login_redirect</"
+"code> valid URL in your shortcode."
+msgstr ""
+"Bạn có thể chuyển hướng thành viên tới địa chỉ URL bằng cách dán <code> "
+"login_redirect </code> trong Shortcode"
+
+#: admin/panels/settings.php:392
+msgid "Redirect admins to dashboard always"
+msgstr "Luôn luôn Chuyển hướng Admin tới Bảng Điều Khiển"
+
+#: admin/panels/settings.php:403
+msgid "Registration Settings"
+msgstr "Cài đặt đăng ký"
+
+#: admin/panels/settings.php:417
+msgid "Auto-Login users after registration"
+msgstr "Tự động đăng nhập thành viên sau khi đăng ký"
+
+#: admin/panels/settings.php:427
+msgid "After a successful registration"
+msgstr "Sau khi đăng ký thành công"
+
+#: admin/panels/settings.php:433
+msgid ""
+"You can also redirect users to custom URL by passing "
+"<code>register_redirect</code> valid URL in your shortcode."
+msgstr ""
+"Bạn có thể chuyển hướng thành viên tới địa chỉ URL bằng cách dán "
+"<code>register_redirect</code> trong Shortcode"
+
+#: admin/panels/settings.php:438
+msgid "Default Role for New Users"
+msgstr "Role mặc định cho thành viên mới"
+
+#: admin/panels/settings.php:440 admin/panels/settings.php:441
+msgid "No Role"
+msgstr "Không có Role"
+
+#: admin/panels/settings.php:450
+msgid ""
+"New users will be assigned to this role automatically If you do not allow "
+"them to choose role."
+msgstr ""
+"Thành viên mới sẽ được gán cho Role này tự động nếu bạn không cho phép thành "
+"viên chọn Role."
+
+#: admin/panels/settings.php:455
+msgid "Allowed Roles during Registration"
+msgstr "Cho phép Roles trong khi đăng ký"
+
+#: admin/panels/settings.php:457
+msgid "Select roles"
+msgstr "Chọn Roles"
+
+#: admin/panels/settings.php:466
+msgid ""
+"If you enable users to select their role, this option can limit allowed "
+"roles for user."
+msgstr "Nếu bạn bật Role này, tùy chọn có thể giới hạn Roles cho thành viên."
+
+#: admin/panels/settings.php:471
+msgid "Allow Terms & Conditions Text Before Registration"
+msgstr "Cho phép Điều khoản & Điều kiện trước khi đăng ký"
+
+#: admin/panels/settings.php:481
+msgid "Terms & Conditions Text/HTML"
+msgstr "Điều khoản và Điều Khiện Text/HTML"
+
+#: admin/panels/settings.php:487
+msgid "Logout Page Settings"
+msgstr "Cài đặt trang đăng xuất"
+
+#: admin/panels/settings.php:491
+msgid "After User Logout"
+msgstr "Sau khi thành viên đăng xuất"
+
+#: admin/panels/settings.php:494
+msgid "Redirect to Homepage"
+msgstr "Tùy chọn Chuyển hướng đến Trang Chủ"
+
+#: admin/panels/settings.php:495
+msgid "Redirect to Login Page"
+msgstr "Tùy chọn Chuyển hướng Đăng nhập"
+
+#: admin/panels/settings.php:496
+msgid "Redirect to Custom Page (enter below)"
+msgstr "Tùy chọn Chuyển hướng Trang (nhập bên dưới)"
+
+#: admin/panels/settings.php:502
+msgid "Custom Logout Redirect"
+msgstr "Tùy chọn Chuyển hướng Đăng xuất"
+
+#: admin/panels/settings.php:510
+msgid "Password Settings"
+msgstr "Cài đặt Mật khẩu"
+
+#: admin/panels/settings.php:514
+msgid "Allow password to be reset for Admin Accounts"
+msgstr "Cho phép thay đổi mật khẩu tài khoản Admin"
+
+#: admin/panels/settings.php:525
+msgid "Facebook Integration"
+msgstr "Liên kết Facebook"
+
+#: admin/panels/settings.php:529
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: admin/panels/settings.php:532
+msgid ""
+"Open <a href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a> create a new app and edit its settings to make it work "
+"on your domain. In App Settings, please paste the App ID or API Key into "
+"this field."
+msgstr ""
+"Mở <a href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a> để tạo một Ứng dụng và sửa ứng dụng đó với với "
+"website. Trong thiết lập ứng dụng, vui lòng dán App ID hoặc API Key vào "
+"trường này."
+
+#: admin/panels/settings.php:537
+msgid "Allow Facebook Social Connect"
+msgstr "Cho phép kết nối Facebook"
+
+#: admin/panels/settings.php:548
+msgid "MailChimp Settings"
+msgstr "Cài đặt MailChimp"
+
+#: admin/panels/settings.php:552
+msgid "MailChimp API Key"
+msgstr "MailChimp API Key"
+
+#: admin/panels/settings.php:555
+msgid ""
+"Enter your MailChimp API key here to allow integration with MailChimp "
+"subscription."
+msgstr "Nhập Mailchimp API key để cho phép liên kết với MailChimp."
+
+#: admin/panels/settings.php:561
+msgid "reCAPTCHA Settings"
+msgstr "Cài đặt reCAPTCHA"
+
+#: admin/panels/settings.php:565
+msgid "reCAPTCHA Public API Key"
+msgstr "reCAPTCHA Public API Key"
+
+#: admin/panels/settings.php:568 admin/panels/settings.php:576
+msgid ""
+"You can obtain reCAPTCHA API keys from <a href=\"http://www.google.com/"
+"recaptcha\">http://www.google.com/recaptcha</a> they are required to "
+"activate reCAPTCHA verification on your forms."
+msgstr ""
+"Bạn có thể yêu cầu eCAPTCHA API keys từ <a href=\"http://www.google.com/"
+"recaptcha\">http://www.google.com/recaptcha</a>. Yêu cầu reCAPTCHA để kích "
+"hoạt tài khoản ở form."
+
+#: admin/panels/settings.php:573
+msgid "reCAPTCHA Private API Key"
+msgstr "reCAPTCHA Private API Key"
+
+#: admin/panels/settings.php:581
+msgid "Enable reCAPTCHA on login by default"
+msgstr "Bật mặc định reCAPTCHA ở trang đăng nhập"
+
+#: admin/panels/settings.php:591
+msgid "Enable reCAPTCHA on registration by default"
+msgstr "Bật mặc định reCAPTCHA ở trang đăng ký"
+
+#: admin/panels/woo.php:3
+msgid "Auto Sync Fields with WooCommerce"
+msgstr "Tự động đồng bộ trường với WooCommerce"
+
+#: admin/panels/woo.php:4
+msgid ""
+"Click on the next button to automatically add WooCommerce profile fields to "
+"UserPro fields and make users manage their WooCommerce profile data from one "
+"place, their UserPro profile!"
+msgstr ""
+"Click vào nút Tiếp để tự động thêm vào Hồ sơ WooCommerce và có thể quản lý ở "
+"một nơi!"
+
+#: admin/panels/woo.php:10
+msgid "Rebuild WooCommerce Sync"
+msgstr "Tạo tại đồng bộ WooCommerce."
+
+#: admin/panels/woo.php:11
+msgid "Remove WooCommerce Sync"
+msgstr "Xóa đồng bộ WooCommerce"
+
+#: admin/panels/woo.php:15
+msgid "Start WooCommerce Sync"
+msgstr "Bắt đầu đồng bộ WooCommerce"
+
+#: css/userpro.php:50
+msgid "Light"
+msgstr "Sáng"
+
+#: functions/ajax.php:40
+msgid "You must enter a post title."
+msgstr "Bạn cần nhâp Tiêu đề bài viết."
+
+#: functions/ajax.php:44
+msgid "You must enter some content."
+msgstr "Bạn cần nhập một số nội dung."
+
+#: functions/ajax.php:65
+#, php-format
+msgid "Your post has been published. You can view it %s."
+msgstr "Bài viết của bạn đã được Xuất. Bạn có thể xem tại %s."
+
+#: functions/ajax.php:72
+msgid "Your post has been sent for review. It will be checked by our staff."
+msgstr "Bài viết của bạn đã được gửi xem xét. Chúng tôi sẽ xác nhận sớm nhất."
+
+#: functions/ajax.php:107
+msgid "Nothing was deleted. You must choose yes to confirm deletion."
+msgstr "Không có gì để xóa. Bạn cần chọn CÓ để xác nhận xóa."
+
+#: functions/ajax.php:109
+msgid "For security reasons, admin accounts cannot be deleted."
+msgstr "Vì lý do an toàn, tài khoản Admin không thể xóa."
+
+#: functions/ajax.php:111
+msgid "You cannot remove test accounts from frontend!"
+msgstr "Bạn không thể xóa tài khoản TEST từ bên ngoài website!"
+
+#: functions/ajax.php:133
+msgid "This account has been deleted successfully."
+msgstr "Tài khoản đã được xóa thành công."
+
+#: functions/ajax.php:145
+msgid "You did not provide a secret key."
+msgstr "Bạn chưa cung cấp Mã Bí Mật."
+
+#: functions/ajax.php:147 functions/ajax.php:476
+msgid "The secret key you entered is invalid."
+msgstr "Mã bí mật bạn nhập không đúng."
+
+#: functions/ajax.php:155 functions/ajax.php:484
+msgid "The secret key is invalid or expired."
+msgstr "Mã bí mật không đúng hoặc hết hạn."
+
+#: functions/ajax.php:175 functions/ajax.php:213
+msgid "You should provide your email or username."
+msgstr "Bạn cần cung cấp địa chỉ Email hoặc Tên sử dụng"
+
+#: functions/ajax.php:184
+msgid "There is not such user in our system."
+msgstr "Chưa có thành viên nào trong hệ thống."
+
+#: functions/ajax.php:186
+msgid "Resetting admin password is not permitted!"
+msgstr "Khôi phục mật khẩu Admin là không cho phép!"
+
+#: functions/ajax.php:216
+msgid "You should provide your password."
+msgstr "Bạn nên cung cấp mật khẩu của bạn."
+
+#: functions/ajax.php:232 functions/ajax.php:336
+msgid "The reCAPTCHA wasn't entered correctly. Please try again."
+msgstr "Mã an Toàn bạn nhập không đúng. Vui lòng thử lại"
+
+#: functions/ajax.php:245
+msgid "Invalid email or username entered"
+msgstr "Sai Email hoặc Tên sử dụng"
+
+#: functions/ajax.php:247
+msgid "The password you entered is incorrect"
+msgstr "Mật khẩu bạn nhập vào không đúng"
+
+#: functions/ajax.php:254 functions/msg-functions.php:12
+msgid "Your email is pending verification. Please activate your account."
+msgstr "Email của bạn đang đợi kích hoạt. Vui lòng kích hoạt tài khoản."
+
+#: functions/ajax.php:446
+msgid "Invalid purchase code or Envato API is down."
+msgstr "Sai mã kích hoạt hoặc Envato API đã sập."
+
+#: functions/ajax.php:454
+msgid "The display name is already in use."
+msgstr "Tên hiễn thị này đã có người sử dụng."
+
+#: functions/ajax.php:460
+msgid "Username already taken."
+msgstr "Tên sử dụng này đã có."
+
+#: functions/ajax.php:462
+msgid "Illegal characters are not allowed in username."
+msgstr "Có ký tự không cho phép ở Tên Sử Dụng."
+
+#: functions/ajax.php:468
+msgid "Please enter a valid email."
+msgstr "Vui lòng nhập đúng địa chỉ Email."
+
+#: functions/ajax.php:470
+msgid ""
+"Email is taken. Is that you? Try to <a href=\"#\" data-template=\"login"
+"\">login</a>"
+msgstr ""
+"Email này đã có, đó có phải là BẠN? Hãy thử <a href=\"#\" data-template="
+"\"login\">đăng nhập</a> lại nhé."
+
+#: functions/ajax.php:528
+msgid "No custom notice is set for this account."
+msgstr "Không có thông báo nào được thiết lập cho tài khoản này."
+
+#: functions/api.php:349
+msgid "Found <span>1</span> Member"
+msgstr "Tìm thấy <span>1</span> thành viên"
+
+#: functions/api.php:351
+#, php-format
+msgid "Found <span>%s</span> Members"
+msgstr "Tìm thấy <span>%s</span> thành viên"
+
+#: functions/api.php:938
+msgid "No available information"
+msgstr "Chưa có thông tin nào"
+
+#: functions/badge-functions.php:53
+msgid "User is online :)"
+msgstr "Thành viên đang Online :)"
+
+#: functions/badge-functions.php:57
+msgid "User is offline :("
+msgstr "Thành viên đang Offline :("
+
+#: functions/badge-functions.php:62 functions/badge-functions.php:64
+#: functions/badge-functions.php:98
+msgid "Verified Account"
+msgstr "Đã xác nhận tài khoản"
+
+#: functions/badge-functions.php:69
+msgid "Facebook Linked"
+msgstr "Đã liên kết Facebook"
+
+#: functions/badge-functions.php:73
+msgid "Verified Customer"
+msgstr "Xác nhận khách hàng"
+
+#: functions/badge-functions.php:98
+msgid "Click to unverify"
+msgstr "Click để ngừng kích hoạt"
+
+#: functions/badge-functions.php:101
+msgid "Unverified Account"
+msgstr "Chưa kích hoạt tài khoản"
+
+#: functions/badge-functions.php:101
+msgid "Click to verify"
+msgstr "Click để kích hoạt"
+
+#: functions/custom-alerts.php:23 functions/custom-alerts.php:32
+msgid "Set custom note..."
+msgstr "Ghi chú cá nhân..."
+
+#: functions/defaults.php:49
+msgid "You or someone else has requested to change password for this account."
+msgstr "Bạn hoặc Một ai đó đã yêu cầu bạn thay đổi mật khẩu."
+
+#: functions/defaults.php:50
+msgid ""
+"The following key was generated to you to be able to change your passsword. "
+"Login to our site and attempt to Change your Password and use that key to "
+"change your password successfully."
+msgstr ""
+"Một Khóa đã được tạo ra để bạn có thể thay đổi mật khẩu. Vui lòng đăng nhập "
+"và sử dụng Khóa này để có thể thay đổi mật khẩu của bạn."
+
+#: functions/defaults.php:51
+msgid "Secret Key: {VAR1}"
+msgstr "Mã bí mật: {VAR1}"
+
+#: functions/defaults.php:52 functions/defaults.php:59
+#: functions/defaults.php:69
+msgid "If you have any problems, please contact us at {USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Nếu bạn có bất kỳ vấn đề gì, vui lòng liên hệ với chúng tôi qua: "
+"{USERPRO_ADMIN_EMAIL}."
+
+#: functions/defaults.php:53 functions/defaults.php:60
+#: functions/defaults.php:70 functions/defaults.php:75
+msgid "Best Regards!"
+msgstr "Trân trọng!"
+
+#: functions/defaults.php:56
+msgid ""
+"Thanks for signing up at {USERPRO_BLOGNAME}. You must confirm/validate your "
+"account before logging in."
+msgstr ""
+"Cám ơn bạn đã đăng ký tại {USERPRO_BLOGNAME}. Vì mục đích thông báo, gửi bài "
+"viết mới,... cho nên Bạn cần xác nhận Tài khoản trước khi đăng nhập."
+
+#: functions/defaults.php:57
+msgid ""
+"Please click on the following link to successfully activate your account:"
+msgstr "Vui lòng Click vào liên kết này để hoàn thành kích hoạt tài khoản:"
+
+#: functions/defaults.php:63
+msgid "Thanks for registering. Your account is now active."
+msgstr "Cám ơn bạn đã đăng ký. Tài khoản của bạn đã được kích hoạt."
+
+#: functions/defaults.php:64
+msgid "To login please visit the following URL:"
+msgstr "Để đăng nhập vui lòng vào địa chỉ: "
+
+#: functions/defaults.php:66
+msgid "Your account e-mail: {USERPRO_EMAIL}"
+msgstr "Email của bạn: {USERPRO_EMAIL}"
+
+#: functions/defaults.php:67
+msgid "Your account username: {USERPRO_USERNAME}"
+msgstr "Tên sử dụng của bạn: {USERPRO_USERNAME}"
+
+#: functions/defaults.php:68
+msgid "Your account password: {VAR1}"
+msgstr "Mật khẩu của bạn: {VAR1}"
+
+#: functions/defaults.php:73
+msgid "Your account has been deleted from {USERPRO_BLOGNAME}."
+msgstr "Tài khoản của bạn đã xóa từ {USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:74
+msgid ""
+"If you have any further questions, please contact us at "
+"{USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua "
+"{USERPRO_ADMIN_EMAIL}."
+
+#: functions/defaults.php:78
+msgid ""
+"{USERPRO_USERNAME} has just created a new account at {USERPRO_BLOGNAME}."
+msgstr "{USERPRO_USERNAME} đã tạo một tài khoản tại {USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:79
+msgid "You can check his profile via the following link:"
+msgstr "Bạn có thể kiểm tra hồ sơ anh ấy qua link sau:"
+
+#: functions/defaults.php:84
+msgid ""
+"{USERPRO_USERNAME}'s profile has been just deleted from {USERPRO_BLOGNAME}."
+msgstr "Hồ sơ của {USERPRO_USERNAME}'s đã xóa tại {USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:88
+msgid ""
+"{USERPRO_USERNAME} has just updated their profile at {USERPRO_BLOGNAME}."
+msgstr "{USERPRO_USERNAME} đã cập nhật hồ sơ tại {USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:89
+msgid "To view his/her profile:"
+msgstr "Để xem hồ sơ của anh ấy/cô ấy:"
+
+#: functions/defaults.php:159
+msgid ""
+"To complete registration, you must read and agree to our <a href=\"#\">terms "
+"and conditions</a>. This text can be custom."
+msgstr ""
+"Để hoàn thành viện đăng ký, bạn cần đọc  <a href=\"#\">điều khoản và điều "
+"kiện</a>."
+
+#: functions/defaults.php:182
+msgid "&mdash; Select account role &mdash;"
+msgstr "&mdash; Chọn Role &mdash;"
+
+#: functions/fields-functions.php:341 functions/fields-functions.php:358
+msgid "No file has been uploaded."
+msgstr "Không có file nào được upload."
+
+#: functions/fields-functions.php:426
+msgid "Upload photo"
+msgstr "Upload Ảnh"
+
+#: functions/fields-functions.php:436
+msgid "Upload file"
+msgstr "Upload File"
+
+#: functions/fields-functions.php:455 functions/fields-functions.php:474
+#: functions/fields-functions.php:530
+msgid "Make this field hidden from public"
+msgstr "Đổi trường này ẩn từ công khai"
+
+#: functions/fields-functions.php:484
+msgid "Password Strength"
+msgstr "Độ an toàn Mật Khẩu"
+
+#: functions/fields-functions.php:587
+msgid "Subscribe to our newsletter"
+msgstr "Đăng ký nhận bài mới"
+
+#: functions/fields-functions.php:593
+msgid "You are currently subscribed to this newsletter."
+msgstr "Hiện tại bạn đang đăng ký nhận thông tin mới."
+
+#: functions/fields-functions.php:596
+msgid "Unsubscribe from this newsletter"
+msgstr "Ngừng đăng ký nhận thông tin mới."
+
+#: functions/fields-functions.php:771
+#, php-format
+msgid "(Your %s will not be visible to public)"
+msgstr "(%s sẽ không được công khai)"
+
+#: functions/fields-setup.php:129 functions/fields-setup.php:172
+msgid "Account Details"
+msgstr "Chi tiết tài khoản"
+
+#: functions/fields-setup.php:136 functions/fields-setup.php:157
+msgid "Profile Details"
+msgstr "Chi tiết hồ sơ"
+
+#: functions/fields-setup.php:142 functions/fields-setup.php:166
+msgid "Social Profiles"
+msgstr "Thông tin Mạng xã hội"
+
+#: functions/initial-setup.php:23 functions/user-functions.php:26
+#: templates/logout.php:17 updates/userpro_1.0.24.php:15
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: functions/initial-setup.php:37
+msgid "Member Directory"
+msgstr "Danh mục thành viên"
+
+#: functions/initial-setup.php:51
+msgid "My Profile"
+msgstr "Hồ sơ của tôi"
+
+#: functions/initial-setup.php:65 templates/view.php:16 templates/view.php:18
+msgid "Edit Profile"
+msgstr "Sửa hồ sơ"
+
+#: functions/initial-setup.php:80 functions/shortcode-main.php:45
+#: functions/shortcode-private-content.php:32
+msgid "Register"
+msgstr "Đăng ký"
+
+#: functions/initial-setup.php:95 functions/shortcode-main.php:46
+#: functions/shortcode-main.php:51 functions/shortcode-main.php:55
+#: functions/shortcode-private-content.php:33
+#: functions/shortcode-private-content.php:38
+#: functions/shortcode-private-content.php:42
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: functions/mail-functions.php:39
+msgid "Verify your Account"
+msgstr "Kích hoạt tài khoản"
+
+#: functions/mail-functions.php:48
+msgid "Reset Your Password"
+msgstr "Khôi phục mật khẩu"
+
+#: functions/mail-functions.php:57
+msgid "Your profile has been removed!"
+msgstr "Hồ sơ của bạn đã xóa!"
+
+#: functions/mail-functions.php:66
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Xin chào %s!"
+
+#: functions/mail-functions.php:83
+msgid "[UserPro] New User Registration"
+msgstr "Thành viên mới đăng ký"
+
+#: functions/mail-functions.php:90
+msgid "[UserPro] A profile has been removed!"
+msgstr "Hồ sơ đã xóa!"
+
+#: functions/mail-functions.php:97
+msgid "[UserPro] A profile has been updated!"
+msgstr "Hồ sơ đã được cập nhật!"
+
+#: functions/memberlist-functions.php:303
+msgid "« Previous"
+msgstr "« Trước"
+
+#: functions/memberlist-functions.php:304
+msgid "Next »"
+msgstr "Tiếp »"
+
+#: functions/msg-functions.php:4
+msgid "Please log in to publish a new post."
+msgstr "Vui lòng đăng nhập để viết một bài viết mới."
+
+#: functions/msg-functions.php:8
+msgid "Your account has been successfully activated!"
+msgstr "Tài khoản của bạn đã kích hoạt thành công!"
+
+#: functions/msg-functions.php:16
+msgid "Your profile has been saved."
+msgstr "Hồ sơ của bạn đã được lưu."
+
+#: functions/msg-functions.php:20
+msgid "Thank you for registering. Please login to continue."
+msgstr "Cám ơn bạn đã đăng ký. Vui lòng đăng nhập để tiếp tục."
+
+#: functions/msg-functions.php:24
+msgid "Please login to view and manage your profile."
+msgstr "Vui lòng đăng nhập để xem và quản lý hồ sơ."
+
+#: functions/msg-functions.php:28
+msgid "Please login to view this user profile."
+msgstr "Vui lòng đăng nhập để xem thông tin này."
+
+#: functions/msg-functions.php:32
+msgid ""
+"We'll email you a secret key. Once you obtain the key, you can use it to "
+"Change your Password."
+msgstr ""
+"Chúng tôi sẽ gửi cho bạn một Mã Bí Mật. Khi bạn có Mã Bí Mật đó, bạn có thể "
+"Thay đổi mật khẩu."
+
+#: functions/msg-functions.php:36
+msgid "A secret key has been sent successfully."
+msgstr "Mã Bí Mật đã được gửi thành công."
+
+#: functions/msg-functions.php:40
+msgid "Your password has been changed successfully. Please login."
+msgstr "Mật khẩu của bạn đã được thay đổi thành công. Vui lòng đăng nhập."
+
+#: functions/shortcode-main.php:31 functions/shortcode-private-content.php:21
+msgid "This field is required"
+msgstr "Trường này là Bắt buộc"
+
+#: functions/shortcode-main.php:32 functions/shortcode-private-content.php:22
+msgid "Your password is too short"
+msgstr "Mật khẩu của bạn quá ngắn"
+
+#: functions/shortcode-main.php:33 functions/shortcode-private-content.php:23
+msgid "Passwords do not match"
+msgstr "Mật khẩu không đúng"
+
+#: functions/shortcode-main.php:34 functions/shortcode-private-content.php:24
+msgid "Password is not strong enough"
+msgstr "Độ dài mật khẩu chưa đủ mạnh"
+
+#: functions/shortcode-main.php:41 functions/shortcode-private-content.php:28
+msgid "Register an Account"
+msgstr "Đăng ký tài khoản"
+
+#: functions/shortcode-main.php:42 functions/shortcode-private-content.php:29
+msgid "Already a member?"
+msgstr "Đã là thành viên?"
+
+#: functions/shortcode-main.php:52 functions/shortcode-private-content.php:39
+msgid "Forgot your password?"
+msgstr "Bạn quên mật khẩu?"
+
+#: functions/shortcode-main.php:56 functions/shortcode-private-content.php:43
+msgid "Create an Account"
+msgstr "Tạo một tài khoản"
+
+#: functions/shortcode-main.php:61 functions/shortcode-private-content.php:48
+#: templates/edit.php:84 templates/view.php:78
+msgid "Delete Profile"
+msgstr "Xóa hồ sơ"
+
+#: functions/shortcode-main.php:62 functions/shortcode-private-content.php:49
+msgid "Undo, back to profile"
+msgstr "Lùi lại, Trở lại Hồ sơ"
+
+#: functions/shortcode-main.php:65 functions/shortcode-private-content.php:52
+#: templates/delete.php:23
+msgid "Confirm Deletion"
+msgstr "Xác nhận xóa"
+
+#: functions/shortcode-main.php:66 functions/shortcode-private-content.php:53
+msgid "Back to Profile"
+msgstr "Trở lại Hồ sơ"
+
+#: functions/shortcode-main.php:69 functions/shortcode-private-content.php:56
+msgid "Reset Password"
+msgstr "Khôi phục mật khẩu"
+
+#: functions/shortcode-main.php:70 functions/shortcode-private-content.php:57
+msgid "Back to Login"
+msgstr "Trở lại đăng nhập"
+
+#: functions/shortcode-main.php:73 functions/shortcode-private-content.php:60
+msgid "Request Secret Key"
+msgstr "Yêu cầu Mã Bí Mật"
+
+#: functions/shortcode-main.php:74 functions/shortcode-main.php:77
+#: functions/shortcode-private-content.php:61
+#: functions/shortcode-private-content.php:64
+msgid "Change your Password"
+msgstr "Thanh đổi mật khẩu"
+
+#: functions/shortcode-main.php:78 functions/shortcode-private-content.php:65
+msgid "Request New Key"
+msgstr "Yêu cầu Mã Bí Mật mới"
+
+#: functions/shortcode-main.php:81 functions/shortcode-private-content.php:68
+msgid "Change my Password"
+msgstr "Thay đổi mật khẩu"
+
+#: functions/shortcode-main.php:82 functions/shortcode-private-content.php:69
+msgid "Do not have a secret key?"
+msgstr "Bạn đã có Mã Bí Mật chưa?"
+
+#: functions/shortcode-main.php:85 functions/shortcode-private-content.php:72
+msgid "Latest Members"
+msgstr "Thành viên mới nhất"
+
+#: functions/shortcode-main.php:98
+msgid "Who is online now"
+msgstr "Ai đang Online"
+
+#: functions/shortcode-main.php:121 functions/shortcode-private-content.php:94
+msgid "An error has occured"
+msgstr "Đã có lỗi"
+
+#: functions/shortcode-main.php:155
+#: functions/shortcode-private-content.php:117
+msgid "Existing member? login"
+msgstr "Đã là thành viên? đăng nhập"
+
+#: functions/shortcode-main.php:168
+msgid "Add a New Post"
+msgstr "Thêm bài viết mới"
+
+#: functions/terms-agreement.php:14
+msgid "You must accept our terms and conditions"
+msgstr "Bạn cần chấp nhận điều khoản và điều kiện của chúng tôi"
+
+#: templates/change.php:21
+msgid "Your Secret Key"
+msgstr "Mã bí mật"
+
+#: templates/change.php:24
+msgid ""
+"You need a secret key to change your account password. Do not have one? "
+"Click <a href=\"#\" data-template=\"reset\">here</a> to obtain a new key."
+msgstr ""
+"Bạn cần một MÃ BÍ MẬT để có thể thay đổi mật khẩu. Bạn đã có chưa? Click <a "
+"href=\"#\" data-template=\"reset\">vào đây</a> để lấy một khóa mới."
+
+#: templates/delete.php:24
+msgid "No, do not delete"
+msgstr "Không, đừng xóa"
+
+#: templates/delete.php:24
+msgid "Yes, delete this profile!"
+msgstr "Vâng, xóa hồ sơ!"
+
+#: templates/delete.php:25
+msgid "This action cannot be UNDONE! It will delete all profile data."
+msgstr "Hành động này không nên VỌC! Nó có thể sẽ xóa tất cả thông tin hồ sơ."
+
+#: templates/edit.php:80 templates/view.php:74
+msgid "Request Verification"
+msgstr "Yêu cầu kích hoạt"
+
+#: templates/logout.php:13
+msgid "View/manage your profile"
+msgstr "Xem/Quản lý hồ sơ"
+
+#: templates/memberlist.php:9 templates/memberlist_v2.php:9
+msgid "Search for a user..."
+msgstr "Tìm kiếm thành viên..."
+
+#: templates/memberlist.php:47 templates/memberlist_v2.php:58
+msgid "No users match your search. Please try again."
+msgstr "Không có thành viên mà bạn tìm kiếm. Vui lòng thử lại."
+
+#: templates/memberlist_v2.php:44
+msgid "The user did not enter a description yet."
+msgstr "Thành viên chưa nhập thông tin mô tả."
+
+#: templates/not_authorized.php:12
+msgid "You are not authorized to access this profile."
+msgstr "Bạn không có quyền để truy cập thông tin này."
+
+#: templates/not_found.php:12
+msgid ""
+"The user profile you are trying to reach does not exist. It could have been "
+"removed."
+msgstr "Hồ sơ thành viên mà bạn đang xem hiện không có. Nó có thể đã xóa."
+
+#: templates/online.php:17
+#, php-format
+msgid "There are %s users online on the site."
+msgstr "Hiện có %s thành viên đang Online."
+
+#: templates/online.php:64
+msgid "No users are online now."
+msgstr "Hiện tại không có thành viên nào Online."
+
+#: templates/private.php:4
+msgid "Restricted Content / Members Only"
+msgstr "Hạn chế nội dung / Chỉ dành cho thành viên"
+
+#: templates/private.php:12
+#, php-format
+msgid ""
+"You cannot view this content because It is available to members only. Please "
+"<a href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">login</a> "
+"or <a href=\"%s\">register</a> to view this area."
+msgstr ""
+"Bạn không thể xem nội dung này vì nó chỉ dành cho Thành Viên. Vui lòng <a "
+"href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">đăng nhập</a> "
+"hoặc <a href=\"%s\">đăng ký</a> để có thể xem nội dung."
+
+#: templates/publish.php:21
+msgid "Enter post title here..."
+msgstr "Nhập tiêu đề bài viết vào đây..."
+
+#: templates/publish.php:25
+msgid "Post Type"
+msgstr "Loại bài viết"
+
+#: templates/publish.php:27
+msgid "Select Categories"
+msgstr "Chọn chuyên mục"
+
+#: templates/registration_closed.php:6
+msgid "Registration Closed"
+msgstr "Đăng ký thành viên đã đóng."
+
+#: templates/registration_closed.php:17
+msgid "Registration is currently disabled. We apologize for any inconvenience."
+msgstr ""
+"Hiện chức năng đăng ký thành viên của chúng tôi tạm khóa. Thật xin lỗi vì sự "
+"bất tiện này."
+
+#: templates/request_verify.php:6
+msgid "Your request is sent!"
+msgstr "Yêu cầu của bạn đã được gửi."
+
+#: templates/request_verify.php:14
+#, php-format
+msgid ""
+"Thanks, <strong>%s</strong>! Your request to get verified has been sent to "
+"the staff. A staff member will look at your application shortly and take the "
+"appropriate action."
+msgstr ""
+"Cám ơn, <strong>%s</strong>! Yêu cầu kích hoạt của bạn đã gửi tới chúng tôi. "
+"Chúng tôi sẽ xem xét yêu cầu của bạn trong thời gian sớm nhất."
+
+#: templates/reset.php:21
+msgid "Username or Email"
+msgstr "Tên sử dụng hoặc Email"
+
+#: templates/restricted.php:4
+msgid "Access Denied"
+msgstr "Truy cập từ chối"
+
+#: templates/restricted.php:12
+msgid ""
+"You do not have enough permissions or role to view this private content. We "
+"apologize for that."
+msgstr "Bạn không đủ quyền để có thể xem nội dung cá nhân này."

@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooChimp\n"
+"POT-Creation-Date: 2014-03-13 22:30+0300\n"
+"PO-Revision-Date: 2014-03-13 22:30+0300\n"
+"Last-Translator: \n"
+"Language-Team: RightPress <info@rightpress.net>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /var/www/3.8.1/wp-content/plugins/woochimp\n"
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:123
+msgid "Billing First Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:124
+msgid "Billing Last Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:125
+msgid "Billing Company"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:126
+msgid "Billing Address 1"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:127
+msgid "Billing Address 2"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:128
+msgid "Billing City"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:129
+msgid "Billing State"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:130
+msgid "Billing Postcode"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:131
+msgid "Billing Country"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:132
+msgid "Billing Phone"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:133
+msgid "Shipping First Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:134
+msgid "Shipping Last Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:135
+msgid "Shipping Address 1"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:136
+msgid "Shipping Address 2"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:137
+msgid "Shipping City"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:138
+msgid "Shipping State"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:139
+msgid "Shipping Postcode"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:140
+msgid "Shipping Country"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:141
+msgid "Shipping Method Title"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:142
+msgid "Payment Method Title "
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:143
+msgid "User ID"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:144
+msgid "User First Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:145
+msgid "User Last Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:146
+msgid "User Nickname"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:147
+msgid "User Is Paying Customer"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:148
+msgid "User Completed Order Count"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:344
+#, php-format
+msgid ""
+"Warning: PHP cURL extension is not enabled on this server. cURL is required "
+"for this plugin to function correctly. You can read more about cURL <a href="
+"\"%s\">here</a>."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:512
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:611
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:653
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:667
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:815
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:821
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1004
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1008
+msgid "Connecting to MailChimp..."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:517
+msgid "To activate a singup widget:"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:519
+#, php-format
+msgid "go to <a href=\"%s\">Widgets</a> page"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:520
+msgid "locate a widget named MailChimp Signup"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:521
+msgid "drag and drop it to the sidebar of your choise"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:525
+msgid ""
+"Widget will not be displayed to customers if it is not enabled here or if "
+"the are issues with configuration."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:528
+msgid ""
+"To avoid potential conflicts, we recommend to use at most one MailChimp "
+"Signup widget per page."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:536
+msgid ""
+"You can display a signup form anywhere in your pages, posts and WooCommerce "
+"product descriptions."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:537
+msgid ""
+"To do this, simply insert the following shortcode to the desired location:"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:540
+msgid ""
+"Shorcode will not be displayed to customers if it is not enabled here or if "
+"there are issues with configuration."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:543
+msgid ""
+"To avoid potential conflicts, we recommend to place at most one shortcode "
+"per page."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:598
+msgid "No results match"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:599
+msgid "There are no lists named"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:600
+msgid "Selected list does not have tags named"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:601
+msgid "No such field"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:602
+msgid "Selected list does not have groups named"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:603
+msgid "There are no products named"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:604
+msgid "There are no product categories named"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:605
+msgid "Select a mailing list"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:606
+msgid "Select a tag"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:607
+msgid "Select a checkout field"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:608
+msgid "Select some groups (optional)"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:609
+msgid "Select some products"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:610
+msgid "Select some categories"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:612
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:933
+msgid "Still connecting to MailChimp..."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:613
+msgid "Field Name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:614
+msgid "MailChimp Tag"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:615
+msgid "Add Field"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:616
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:933
+msgid "Add Set"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:617
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:268
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:395
+msgid "Mailing list"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:618
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:279
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:406
+msgid "Groups"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:619
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:809
+msgid "Set #"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:621
+#, php-format
+msgid ""
+"%s Response received from your server is <a href=\"%s\" target=\"_blank"
+"\">malformed</a>."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:652
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:666
+#, php-format
+msgid ""
+"Email address field is always displayed, however, you may wish to set up "
+"additional fields here and associate them with MailChimp's <a href=\"%s\" "
+"target=\"_blank\">merge tags</a>."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:757
+msgid "No condition"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:758
+msgid "Products in cart"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:759
+msgid "Product categories in cart"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:760
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:893
+msgid "Order total"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:761
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:920
+msgid "Custom field value"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:803
+msgid ""
+"Select mailing list and groups that customers will be added to. Multiple "
+"sets of list and groups with conditional selection are supported.<br /"
+">Please note that if criteria of more than one set is matched, user will be "
+"subscribed multiple times to multiple lists/groups."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:809
+msgid "Remove"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:827
+msgid "Condition"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:840
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:848
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:856
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:901
+msgid "Operator"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:843
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:851
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:907
+msgid "Contains"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:844
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:852
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:908
+msgid "Does not contain"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:859
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:911
+msgid "Less than"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:860
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:912
+msgid "Less than or equal to"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:861
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:913
+msgid "Equal to"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:862
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:914
+msgid "Greater than or equal to"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:863
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:915
+msgid "Greater than"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:867
+msgid "Products"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:880
+msgid "Product categories"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:897
+msgid "Custom field key"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:905
+msgid "Is"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:906
+msgid "Is not"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1459
+msgid "Your settings have been saved."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1465
+msgid "must be numeric"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1466
+msgid "must be either 0 or 1"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1467
+msgid "is not allowed"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1468
+msgid "is not a valid email address"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1469
+msgid "is not a valid URL"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1470
+msgid "is not a valid text string"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1476
+msgid "Reverted to a previous state."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1481
+msgid "Value of"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1584
+msgid "Support"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1586
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:47
+msgid "Settings"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1631
+msgid "Unable to load lists"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1637
+msgid "No lists found"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1667
+msgid "Unable to load groups"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1675
+msgid "No groups found"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1747
+msgid "Unable to load merge vars"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1753
+msgid "No merge vars found"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1789
+msgid "No API key provided"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1794
+msgid "PHP Curl extension not loaded on your server"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1806
+msgid "Unable to initialize MailChimp class"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1823
+msgid "Something went wrong..."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1882
+msgid "Integration not enabled or API key not set"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1897
+msgid "Successfully connected to MailChimp"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1899
+msgid "Account name"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1901
+msgid "Industry"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1903
+msgid "Plan type"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1905
+msgid "Is trial"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1905
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1907
+msgid "Yes"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1905
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1907
+msgid "No"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1907
+msgid "Ecommerce360 enabled"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1907
+msgid "Unknown"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1911
+msgid "Connection to MailChimp failed."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/woochimp.php:1915
+msgid "Reason"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:12
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:13
+msgid "MailChimp"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:18
+msgid "Integration"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:22
+msgid "General"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:25
+msgid "Enable Integration"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:32
+msgid ""
+"<p>Enable or disable integration. If disabled, none of the features will be "
+"active.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:35
+msgid "MailChimp API key"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:42
+msgid ""
+"<p>API key is required for this plugin to communicate with MailChimp servers."
+"</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:50
+msgid "Enable Ecommerce 360"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:57
+msgid ""
+"<p>If enabled, order data will be sent to MailChimp as soon as order is "
+"marked as completed.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:60
+msgid "Enable Webhooks"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:67
+msgid ""
+"<p>If enabled and configured, MailChimp will send this plugin instant "
+"updates about changes on your account.</p> <p>This is useful as it extends "
+"functionality of this plugin. For example, you can configure this plugin not "
+"to auto-subscribe user who has just manually unsubscribed from your list.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:70
+msgid "Your Webhook URL"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:77
+msgid ""
+"<p>Webhook must be set up on MailChimp side as well. Login to your MailChimp "
+"account, go to one of your lists, click on Settings / Webhooks and add this "
+"URL as a Callback URL for a new Webhook.</p> <p>You can repeat the same "
+"process for all lists that you are going to use.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:82
+msgid "Status"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:89
+msgid "Checkout"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:93
+msgid "Subscribe On Checkout"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:96
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:223
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:350
+msgid "Enable"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:104
+msgid "Disabled"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:105
+msgid "Subscribe automatically"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:106
+msgid "Ask for permission"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:108
+msgid ""
+"<p>Choose <strong>Subscribe automatically</strong>, if you wish to subscribe "
+"all customers to one of your lists without asking for their consent.</p> "
+"<p>Choose <strong>Ask for permission</strong>, if you wish to add a checkbox "
+"to your Checkout page so users can opt-in to receive your newsletters.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:111
+msgid "Subscribe on"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:119
+msgid "Order placed"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:120
+msgid "Order completed"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:122
+msgid ""
+"<p>Choose whether to subscribe user as soon as order is placed (better for "
+"marketing) or wait until order is marked as completed (better for providing "
+"access to premium content delivered by email).</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:125
+msgid "Label"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:127
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:132
+msgid "<p>Text to display to customers next to singup checkbox.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:135
+msgid "Checkbox position"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:143
+msgid "Above customer details"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:144
+msgid "Below customer details"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:145
+msgid "Above checkout form"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:146
+msgid "Below checkout form"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:147
+msgid "Above billing details"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:148
+msgid "Above shipping details"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:150
+msgid ""
+"<p>Select checkbox position. Not all positions may be available on all "
+"themes.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:153
+msgid "Default state"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:161
+msgid "Checked"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:162
+msgid "Not checked"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:164
+msgid ""
+"<p>Select default state of the signup checkbox.</p> <p>If you select "
+"<strong>Checked</strong>, customers will have to unselect the checkbox in "
+"order not to be subscribed to the list.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:167
+msgid "Don't resubscribe unsubscribed"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:174
+msgid ""
+"<p>If selected, users who have unsubscribed from the selected list in the "
+"past, will not be automatically subscribed again.</p> <p>This requires "
+"MailChimp Webhook integration to be active.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:177
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:233
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:360
+msgid "Replace groups on MailChimp"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:184
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:240
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:367
+msgid ""
+"<p>If selected, interest groups provided above will replace any other "
+"interest groups for existing users.</p> <p>Otherwise, provided groups will "
+"be merged with existing interest groups on subscriber profile.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:187
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:243
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:370
+msgid "Double opt-in"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:194
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:250
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:377
+msgid ""
+"<p>Enable standard MailChimp double opt-in functionality. Customers will be "
+"sent an email and required to confirm subscription.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:197
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:253
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:380
+msgid "Send welcome email"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:204
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:260
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:387
+msgid ""
+"<p>If enabled, customers will receive welcome email as configured in "
+"MailChimp settings.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:209
+msgid "Lists, Groups And Fields"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:216
+msgid "Widget"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:220
+msgid "Signup Form Widget"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:230
+msgid ""
+"<p>If enabled, a signup form will be displayed in a widget.</p> <p>You still "
+"must insert <strong>MailChimp Signup</strong> widget to one of the sidebars."
+"</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:265
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:392
+msgid "List & Groups"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:276
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:403
+msgid ""
+"<p>Select a MailChimp list to subscribe users to. You must choose a valid "
+"list to enable this feature.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:287
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:414
+msgid ""
+"<p>Select one or multiple MailChimp groups to add subscribers to. Mailing "
+"list must be chosen for a list of groups to appear.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:292
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:419
+msgid "Fields"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:297
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:424
+msgid "Style"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:300
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:427
+msgid "Show field labels inline"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:307
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:434
+msgid ""
+"<p>If enabled, field labels will be shown as placeholders for fields. "
+"Otherwise, they will be displayed separately before fields.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:310
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:437
+msgid "Signup form style"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:318
+msgid "Inherit theme style"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:319
+msgid "WooChimp General"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:321
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:448
+msgid ""
+"<p>Select a style to apply to your signup form. If you choose to inherit the "
+"style from your current theme, styling will completely depend on it - in "
+"some cases you may get undesired results.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:324
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:451
+msgid "Custom CSS"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:331
+msgid ""
+"<p>You can further customize the appearance of the signup form by adding "
+"custom CSS to this field.</p> <p>To make changes to the style, simply use "
+"CSS class <strong>woochimp_wg</strong> as a basis.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:336
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:463
+msgid "Usage"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:343
+msgid "Shortcode"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:347
+msgid "Signup Shortcode"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:357
+msgid ""
+"<p>If enabled, a signup form will be displayed wherever you place a "
+"shortcode.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:458
+msgid ""
+"You can further customize the appearance of the signup form by adding custom "
+"CSS to this field.</p> <p>To make changes to the style, simply use CSS class "
+"<strong>woochimp_sc</strong> as a basis.</p>"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:470
+msgid "Labels"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:474
+msgid "Frontend forms"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:477
+msgid "Widget form title"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:479
+msgid "Newsletter"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:486
+msgid "Shortcode form title"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:488
+msgid "Sign up for our newsletter!"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:495
+msgid "Button label"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:497
+msgid "Sign up"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:504
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:506
+msgid "Email"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:513
+msgid "Error"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:515
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:522
+msgid "Success"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/includes/woochimp-plugin-structure.inc.php:524
+msgid "Thank you for signing up!"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/classes/woochimp-mailchimp-subscription.class.php:21
+msgid "MailChimp Signup"
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/classes/woochimp-mailchimp-subscription.class.php:23
+msgid ""
+"Widget displays newsletter signup form, if enabled under MailChimp settings."
+msgstr ""
+
+#: /var/www/3.8.1/wp-content/plugins/woochimp/classes/woochimp-mailchimp-subscription.class.php:153
+#, php-format
+msgid ""
+"Renders MailChimp signup form. You can edit settings <a href=\"%s\">here</a>."
+msgstr ""

@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Usernoise v3.7.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-09 12:21:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: POEditor.com\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/admin-bar.php:17
+#, php-format
+#@ default
+msgid "Usernoise %s"
+msgstr "Usernoise %s"
+
+#: admin/admin-bar.php:23
+#: admin/settings.php:170
+#: html/reply-meta-box.php:5
+#: html/window.php:23
+#: inc/template.php:139
+#@ usernoise
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: admin/admin-bar.php:30
+#: admin/menu.php:16
+#: html/window.php:26
+#: vendor/plugin-options-framework/plugin-options-framework.php:94
+#@ usernoise
+#@ default
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: admin/dashboard.php:16
+#: inc/model.php:33
+#@ usernoise
+msgid "New feedback"
+msgstr "Yeni geribildirim"
+
+#: admin/dashboard.php:33
+#@ default
+msgid "by"
+msgstr "tarafından"
+
+#: admin/dashboard.php:43
+#@ usernoise
+msgid "View all feedback"
+msgstr "Tüm geri bildirimleri göster"
+
+#: admin/dashboard.php:46
+#@ usernoise
+msgid "No new feedback now."
+msgstr "Yeni geribildirim yok"
+
+#: admin/editor-page.php:29
+#: html/publish-meta-box.php:61
+#@ default
+msgid "Publish"
+msgstr "Yayınlamak"
+
+#: admin/editor-page.php:36
+#@ usernoise
+msgid "HTTP Headers"
+msgstr "HTTP Başlıkları"
+
+#: admin/editor-page.php:38
+#@ default
+msgid "Discussion"
+msgstr "Tartışma"
+
+#: admin/editor-page.php:39
+#@ usernoise
+msgid "WordPress Debug Info"
+msgstr "WordPress Debug Bilgisi"
+
+#: admin/editor-page.php:57
+#@ usernoise
+msgid "Feedback was marked as reviewed"
+msgstr "Geribildirim  incelendi olarak işaretlendi"
+
+#: admin/editor-page.php:77
+#@ default
+msgid "Author"
+msgstr "Yazar"
+
+#: admin/feedback-list.php:34
+#@ usernoise
+msgid "Type"
+msgstr "Tip"
+
+#: admin/feedback-list.php:58
+#@ usernoise
+msgid "All feedback types"
+msgstr "Tüm geribildirim tipleri"
+
+#: admin/menu.php:14
+#: inc/model.php:38
+#@ usernoise
+msgid "Usernoise"
+msgstr "Usernoise"
+
+#: admin/notifications.php:20
+#, php-format
+#@ usernoise
+msgid "Usernoise is disabled now. You can enable and configure it at the <a href=\"%s\">settings page</a>."
+msgstr "Usernoise artık devre dışıdır. Etkinleştirebilir ve <a href=\"%s\"> ayarları sayfasında yapılandırabilirsiniz </ a>."
+
+#: admin/settings.php:14
+#@ usernoise
+msgid "Usernoise settings"
+msgstr "Usernoise ayarları"
+
+#: admin/settings.php:34
+#@ default
+msgid "Left"
+msgstr "Sol"
+
+#: admin/settings.php:34
+#@ default
+msgid "Right"
+msgstr "Sağ"
+
+#: admin/settings.php:34
+#@ default
+msgid "Top"
+msgstr "Üst"
+
+#: admin/settings.php:35
+#@ default
+msgid "Bottom"
+msgstr "Alt"
+
+#: admin/settings.php:37
+#@ usernoise
+msgid "General"
+msgstr "Genel"
+
+#: admin/settings.php:39
+#@ usernoise
+msgid "Enable Usernoise"
+msgstr "Usernoise'i etkinleştir"
+
+#: admin/settings.php:44
+#@ usernoise
+msgid "Show Powered by"
+msgstr "Kimin tarafından yapıldığını göster"
+
+#: admin/settings.php:45
+#@ usernoise
+msgid "Show <strong>\"Powered by Usernoise\"</strong> link at the modal window. Check this, please!"
+msgstr "\"Usernoise Powered by\" <strong> göster </ strong> modal pencerede bağlantı. Bu kontrol, lütfen!"
+
+#: admin/settings.php:47
+#@ default
+msgid "The link will only be visible at the modal window."
+msgstr "Bağlantı yalnızca kalıcı pencere görünür olacaktır."
+
+#: admin/settings.php:49
+#: admin/settings.php:50
+#@ usernoise
+msgid "Disable on mobile devices"
+msgstr "Mobil cihazlarda devre dışı bırak"
+
+#: admin/settings.php:54
+#@ usernoise
+msgid "Button"
+msgstr "Düğme"
+
+#: admin/settings.php:56
+#@ usernoise
+msgid "Position"
+msgstr "Konum"
+
+#: admin/settings.php:59
+#@ usernoise
+msgid "Text"
+msgstr "Metin"
+
+#: admin/settings.php:60
+#@ usernoise
+msgctxt "button"
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: admin/settings.php:67
+#@ usernoise
+msgid "Text color"
+msgstr "Metin rengi"
+
+#: admin/settings.php:70
+#@ usernoise
+msgid "Background color"
+msgstr "Arka plan rengi"
+
+#: admin/settings.php:73
+#@ usernoise
+msgid "Show border"
+msgstr "Çerçeveyi göster"
+
+#: admin/settings.php:77
+#: admin/settings.php:78
+#@ usernoise
+msgid "Form"
+msgstr "Form"
+
+#: admin/settings.php:83
+#@ usernoise
+msgid "Form title"
+msgstr "Form başlığı"
+
+#: admin/settings.php:84
+#@ usernoise
+msgctxt "form"
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: admin/settings.php:86
+#@ usernoise
+msgid "Introductional text"
+msgstr "Tanıtım metni"
+
+#: admin/settings.php:87
+#: inc/template.php:148
+#@ usernoise
+msgid "Please tell us what do you think, any kind of feedback is highly appreciated."
+msgstr "Lütfen ne düşündüğünü söyle, her türlü geribildirim için müteşekkiriz."
+
+#: admin/settings.php:88
+#: admin/settings.php:120
+#@ default
+msgid "This text will be wrapped into &lt;p&gt; tag. You can still use HTML code."
+msgstr "Bu metin <p> etiketi içine sarılmış olacaktır. Hala HTML kodu kullanabilirsiniz."
+
+#: admin/settings.php:92
+#: admin/settings.php:93
+#@ usernoise
+msgid "Ask for feedback type"
+msgstr "Geribildirim tipi iste"
+
+#: admin/settings.php:96
+#: admin/settings.php:97
+#@ usernoise
+msgid "Ask for a summary"
+msgstr "Özet iste"
+
+#: admin/settings.php:101
+#: admin/settings.php:102
+#@ usernoise
+msgid "Ask for an email"
+msgstr "E-posta iste"
+
+#: admin/settings.php:111
+#@ usernoise
+msgid "Submit button text"
+msgstr "Gönder butonu yazısı"
+
+#: admin/settings.php:112
+#: inc/template.php:143
+#@ usernoise
+msgid "Submit feedback"
+msgstr "Geri bildirim gönder"
+
+#: admin/settings.php:113
+#@ usernoise
+msgid "Thank you screen"
+msgstr "Teşekkürler Ekranı"
+
+#: admin/settings.php:115
+#@ usernoise
+msgid "Thank you screen title"
+msgstr "Teşekkürler ekranı başlığı"
+
+#: admin/settings.php:116
+#: html/thankyou.php:2
+#@ usernoise
+msgid "Thank you"
+msgstr "Teşekkürler"
+
+#: admin/settings.php:118
+#@ usernoise
+msgid "Thank you text"
+msgstr "Teşekkürler metni"
+
+#: admin/settings.php:119
+#: html/thankyou.php:4
+#@ usernoise
+msgid "Your feedback has been received."
+msgstr "Görüşleriniz alındı."
+
+#: admin/settings.php:123
+#@ usernoise
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: admin/settings.php:125
+#@ usernoise
+msgid "New feedback received admin notification"
+msgstr "Yeni geribildirim alındığında yönetici bildirimi"
+
+#: admin/settings.php:126
+#@ usernoise
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: admin/settings.php:129
+#, php-format
+#@ usernoise
+msgid "Notification emails will be sent to: <a href=\"mailto:%s\">%s</a>"
+msgstr "<a Href=\"mailto:%s\">% s </ a>: Bildirim e-posta gönderilecektir"
+
+#: admin/settings.php:132
+#, php-format
+#@ usernoise
+msgid "(you can change it at <a href=\"%s\">%s</a> page)."
+msgstr "(</ A> sayfasına <a href=\"%s\">% s değiştirebilirsiniz)."
+
+#: admin/settings.php:133
+#@ default
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+#: admin/settings.php:146
+#@ usernoise
+msgid "Notifications do not work right?"
+msgstr "Bildirimler doğru çalışmadı mı?"
+
+#: html/powered-by.php:2
+#@ usernoise
+msgid "Powered by"
+msgstr "Geliştirici"
+
+#: html/publish-meta-box.php:9
+#: html/publish-meta-box.php:42
+#@ default
+msgid "Status:"
+msgstr "Durum:"
+
+#: html/publish-meta-box.php:27
+#@ default
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G: i"
+
+#: html/publish-meta-box.php:28
+#, php-format
+#@ default
+msgid "Sent on: <b>%1$s</b>"
+msgstr "<b>% 1 $ s </ b>: Gönderdi"
+
+#: html/publish-meta-box.php:51
+#@ default
+msgid "Delete Permanently"
+msgstr "Kalıcı sil"
+
+#: html/publish-meta-box.php:53
+#@ default
+msgid "Move to Trash"
+msgstr "Çöp Kutusuna Taşı"
+
+#: html/publish-meta-box.php:64
+#: html/publish-meta-box.php:65
+#@ default
+msgid "Update"
+msgstr "Güncelleştirmek"
+
+#: html/reply-meta-box.php:4
+#@ usernoise
+msgid "Subject"
+msgstr "Konu"
+
+#: html/reply-meta-box.php:8
+#@ usernoise
+msgid "Send"
+msgstr "Gönder"
+
+#: html/window.php:17
+#@ usernoise
+msgid "Close"
+msgstr "Kapat"
+
+#: inc/db-upgrade.php:27
+#@ usernoise
+msgid "Idea"
+msgstr "Fikir"
+
+#: inc/db-upgrade.php:27
+#@ usernoise
+msgid "Problem"
+msgstr "Sorun"
+
+#: inc/db-upgrade.php:27
+#@ usernoise
+msgid "Question"
+msgstr "Soru"
+
+#: inc/db-upgrade.php:28
+#@ usernoise
+msgid "Praise"
+msgstr "Övgü"
+
+#: admin/settings.php:90
+#@ usernoise
+msgid "Your feedback"
+msgstr "Görüşleriniz"
+
+#: admin/settings.php:99
+#@ usernoise
+msgid "Short summary"
+msgstr "Özetle söylemek istedikleriniz"
+
+#: admin/settings.php:104
+#@ usernoise
+msgid "Your email (will not be published)"
+msgstr "E-posta (yayınlanmayacak)"
+
+#: inc/model.php:26
+#: inc/model.php:28
+#: inc/model.php:29
+#@ usernoise
+msgctxt "admin"
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: inc/model.php:30
+#@ usernoise
+msgid "Add new"
+msgstr "Yeni Ekle"
+
+#: inc/model.php:31
+#@ usernoise
+msgid "Add new feedback"
+msgstr "Yeni geribildirim ekle"
+
+#: inc/model.php:32
+#: inc/model.php:34
+#@ usernoise
+msgid "View feedback"
+msgstr "Geribildirim görüntüle"
+
+#: inc/model.php:35
+#@ usernoise
+msgid "Search feedback"
+msgstr "Geribildirim ara"
+
+#: inc/model.php:36
+#@ usernoise
+msgid "Feedback not found"
+msgstr "Geribildirim bulunamadı"
+
+#: inc/model.php:37
+#@ usernoise
+msgid "Feedback not found in Trash"
+msgstr "Geribildirim çöpte bulunamadı"
+
+#: inc/model.php:40
+#@ usernoise
+msgid "Feedback left by users using a form in a lightbox"
+msgstr "Lightox üzerinde bir form kullanarak kullanıcılar tarafından bırakılan geribildirim"
+
+#: inc/model.php:59
+#@ usernoise
+msgid "Please enter a summary."
+msgstr "Lütfen bir özet girin."
+
+#: inc/model.php:62
+#@ usernoise
+msgid "Please enter the feedback."
+msgstr "Lütfen geribildiriminizi girin."
+
+#: inc/model.php:67
+#@ usernoise
+msgid "Please enter a valid email address."
+msgstr "Lütfen geçerli bir e-posta adresi girin."
+
+#: inc/model.php:104
+#@ default
+msgid "feedback"
+msgstr "Geri Bildirim"
+
+#: inc/model.php:112
+#, php-format
+#@ default
+msgid "New %s submitted at %s"
+msgstr "Yeni% s% s sunulan"
+
+#: inc/template.php:79
+#@ usernoise
+msgid "or"
+msgstr "veya"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:158
+#@ default
+msgid "Please provide some settings fields when creating an options framework instance"
+msgstr "Bir seçenekler çerçeve örneğini oluştururken bazı ayarları alanları verin"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:178
+#@ default
+msgid "This page requires JavaScript to be enabled in your browser. Please enable JavaScript."
+msgstr "Bu sayfayı tarayıcınızda JavaScript'in etkin olmasını gerektirir. Lütfen JavaScript'i etkinleştirin."
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:223
+#@ default
+msgid "Save Options"
+msgstr "Seçenekleri Kaydet"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:224
+#@ default
+msgid "Restore Defaults"
+msgstr "Varsayılanları geri yükle"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:224
+#@ default
+msgid "Click OK to reset. All the settings will be reset to defaults!"
+msgstr "Sıfırlamak için Tamam'ı tıklatın. Tüm ayarları varsayılan sıfırlamak olacak!"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:301
+#@ default
+msgid "Select a Color"
+msgstr "Bir Renk Seçin"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:335
+#@ default
+msgid "Upgrade to WordPress 3.3 or later to enable WYSIWYG editor"
+msgstr "WordPress 3.3 yükseltme veya daha WYSIWYG editörü etkinleştirmek için"
+
+#: admin/settings.php:41
+#: admin/settings.php:42
+#@ usernoise
+msgid "Publish feedback directly without approval"
+msgstr "Geribildirimleri onay olmaksızın yayınla"
+
+#: admin/settings.php:52
+#@ usernoise
+msgid "Disable icons"
+msgstr "İkonları kapat"
+
+#: admin/settings.php:53
+#@ usernoise
+msgid "Use this mode if Usernoise breaks your theme icons in Twitter Bootstrap-based themes"
+msgstr ""
+
+#: admin/settings.php:61
+#@ usernoise
+msgid "Button Icon"
+msgstr "Düğme ikonu"
+
+#: admin/settings.php:62
+#@ usernoise
+msgid "No icon"
+msgstr "İkon yok"
+
+#: admin/settings.php:63
+#@ usernoise
+msgid "Icon used on the button. <strong>May conflict with Twitter Bootstrap-based themes</strong>"
+msgstr "Düğmede kullanılan ikon. <strong>Twitter Bootstrap-tabanlı temalarla çakışabilir.</strong>"
+
+#: admin/settings.php:79
+#@ usernoise
+msgid "Font"
+msgstr "Font"
+
+#: admin/settings.php:90
+#@ usernoise
+msgid "Textarea placeholder"
+msgstr "Metin kısmı giriş alanı"
+
+#: admin/settings.php:99
+#@ usernoise
+msgid "Summary field placeholder"
+msgstr "Özet kısmı giriş alanı"
+
+#: admin/settings.php:104
+#@ usernoise
+msgid "Email field placeholder"
+msgstr "E-posta giriş alanı"
+
+#: admin/settings.php:106
+#: admin/settings.php:107
+#@ usernoise
+msgid "Ask for name"
+msgstr "İsim sor"
+
+#: admin/settings.php:109
+#@ usernoise
+msgid "Your name"
+msgstr "İsminiz"
+
+#: admin/settings.php:109
+#@ usernoise
+msgid "Name field placeholder"
+msgstr "İsim giriş alanı"
+
+#: admin/settings.php:147
+#@ usernoise
+msgid "Check out <a href='http://codecanyon.net/item/all-in-one-email-for-wordpress/1290390'>All in One Email plugin</a>. It adds email options missing in WordPress natively."
+msgstr ""
+
+#: admin/upgrade.php:18
+#@ default
+msgid "Go Pro"
+msgstr ""
+
+#: html/publish-meta-box.php:14
+#@ default
+msgid "Published"
+msgstr ""
+
+#: html/publish-meta-box.php:17
+#@ default
+msgid "Hidden"
+msgstr ""
+
+#: html/publish-meta-box.php:62
+#@ usernoise
+msgid "PublishSave"
+msgstr ""
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Ideas"
+msgstr "Fikirler"
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Questions"
+msgstr "Sorular"
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Problems"
+msgstr "Problemler"
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Praises"
+msgstr "Övgüler"
+
+#: inc/model.php:69
+#@ usernoise
+msgid "Please enter your name."
+msgstr "Lütfen adınızı giriniz"
+
+#: inc/model.php:105
+#, php-format
+#@ usernoise
+msgid "A new %s has been submitted. View it: %s."
+msgstr "Yeni bir %s girildi. Burada görün : %s."
+

@@ -1,0 +1,8 @@
+11 March, 2015 ~~> v1.0.1
+========================
+- [fix] Plugin was causing blank page with new WooCommerce 2.3.5
+
+
+v1.0
+========================
+Initial release

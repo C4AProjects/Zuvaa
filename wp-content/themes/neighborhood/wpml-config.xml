@@ -1,0 +1,43 @@
+<wpml-config>  
+    <admin-texts>
+    	<key name="sf_neighborhood_options">
+	        <key name="rss_feed_url" />
+	        <key name="tb_left_text" />
+	        <key name="tb_right_text" />
+	        <key name="tb_search_text" />
+	        <key name="sub_code" />
+	        <key name="footer_copyright_text" />
+	        <key name="footer_gotop_text" />
+	        <key name="field1_text" />
+	        <key name="field1_filter" />
+	        <key name="field1_default_text" />
+	        <key name="field2_text" />
+	        <key name="field2_filter" />
+	        <key name="field2_default_text" />
+	        <key name="field3_text" />
+	        <key name="field3_filter" />
+	        <key name="field3_default_text" />
+	        <key name="field4_text" />
+	        <key name="field4_filter" />
+	        <key name="field4_default_text" />
+	        <key name="field5_text" />
+	        <key name="field5_filter" />
+	        <key name="field5_default_text" />
+	        <key name="field6_text" />
+	        <key name="field6_filter" />
+	        <key name="field6_default_text" />
+	        <key name="ss_final_text" />
+	        <key name="ss_button_text" />
+	        <key name="promo_bar_text" />
+	        <key name="testimonial_page" />
+	        <key name="jobs_page" />
+	        <key name="checkout_new_account_text" />
+	        <key name="help_bar_text" />
+	        <key name="email_modal" />
+	        <key name="shipping_modal" />
+	        <key name="returns_modal" />
+	        <key name="faqs_modal" />
+	        <key name="feedback_modal" />
+        </key>
+    </admin-texts>
+</wpml-config>

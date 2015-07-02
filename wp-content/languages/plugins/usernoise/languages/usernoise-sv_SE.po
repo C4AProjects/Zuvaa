@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Usernoise v3.7.14\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/usernoise\n"
+"POT-Creation-Date: 2011-08-23 15:49:49+00:00\n"
+"PO-Revision-Date: 2014-08-29 07:05:57+0000\n"
+"Last-Translator: Mikael Saarikoski <mikael@studiojemi.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/settings.php:99
+#@ usernoise
+msgid "Short summary"
+msgstr "Kort sammanfattning"
+
+#: admin/settings.php:90
+#@ usernoise
+msgid "Your feedback"
+msgstr "Din feedback"
+
+#: admin/settings.php:104
+#@ usernoise
+msgid "Your email (will not be published)"
+msgstr "Din e-postadress (delas inte vidare)"
+
+#: inc/model.php:26
+#: inc/model.php:28
+#: inc/model.php:29
+#@ usernoise
+msgctxt "admin"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: inc/model.php:30
+#@ usernoise
+msgid "Add new"
+msgstr "Lägg till ny"
+
+#: inc/model.php:31
+#@ usernoise
+msgid "Add new feedback"
+msgstr "Lägg till ny feedback"
+
+#: inc/model.php:32
+#: inc/model.php:34
+#@ usernoise
+msgid "View feedback"
+msgstr "Se feedback"
+
+#: admin/dashboard.php:16
+#: inc/model.php:33
+#@ usernoise
+msgid "New feedback"
+msgstr "Ny feedback"
+
+#: inc/model.php:35
+#@ usernoise
+msgid "Search feedback"
+msgstr "Sök feedback"
+
+#: inc/model.php:36
+#@ usernoise
+msgid "Feedback not found"
+msgstr "Feedback hittades inte"
+
+#: inc/model.php:37
+#@ usernoise
+msgid "Feedback not found in Trash"
+msgstr "Feedback hittades inte i Papperskorgen"
+
+#: admin/menu.php:14
+#: inc/model.php:38
+#@ usernoise
+msgid "Usernoise"
+msgstr ""
+
+#: inc/model.php:40
+#@ usernoise
+msgid "Feedback left by users using a form in a lightbox"
+msgstr "Feedback lämnat av användare i ett formulär i en lightbox"
+
+#: inc/model.php:59
+#@ usernoise
+msgid "Please enter a summary."
+msgstr "Var god skriv sammanfattning"
+
+#: inc/model.php:62
+#@ usernoise
+msgid "Please enter the feedback."
+msgstr "Var god lämna feedback"
+
+#: inc/model.php:67
+#@ usernoise
+msgid "Please enter a valid email address."
+msgstr "Var god lämna en giltig e-postadress"
+
+#: inc/model.php:104
+#@ default
+msgid "feedback"
+msgstr "feedback"
+
+#: inc/template.php:79
+#@ usernoise
+msgid "or"
+msgstr "eller"
+
+#: admin/admin-bar.php:23
+#: admin/settings.php:170
+#: html/reply-meta-box.php:5
+#: html/window.php:23
+#: inc/template.php:139
+#@ usernoise
+msgid "Feedback"
+msgstr "Feedback"
+
+#: admin/settings.php:112
+#: inc/template.php:143
+#@ usernoise
+msgid "Submit feedback"
+msgstr "Skicka feedback"
+
+#: admin/settings.php:87
+#: inc/template.php:148
+#@ usernoise
+msgid "Please tell us what do you think, any kind of feedback is highly appreciated."
+msgstr "Vänligen berätta vad du tycker, vi uppskattar alla former av feedback."
+
+#: admin/admin-bar.php:30
+#: admin/menu.php:16
+#: html/window.php:26
+#: vendor/plugin-options-framework/plugin-options-framework.php:94
+#@ usernoise
+#@ default
+msgid "Settings"
+msgstr "Inställningar"
+
+#: admin/feedback-list.php:34
+#@ usernoise
+msgid "Type"
+msgstr "Typ"
+
+#: admin/feedback-list.php:58
+#@ usernoise
+msgid "All feedback types"
+msgstr "Alla feedbacktyper"
+
+#: admin/admin-bar.php:17
+#, php-format
+#@ default
+msgid "Usernoise %s"
+msgstr "Usernoise %s"
+
+#: admin/settings.php:14
+#@ usernoise
+msgid "Usernoise settings"
+msgstr "Usernoiseinställningar"
+
+#: admin/settings.php:37
+#@ usernoise
+msgid "General"
+msgstr "Allmänt"
+
+#: admin/settings.php:44
+#@ usernoise
+msgid "Show Powered by"
+msgstr "Visa Drivs med"
+
+#: admin/settings.php:79
+#@ usernoise
+msgid "Font"
+msgstr "Typsnitt"
+
+#: admin/settings.php:54
+#@ usernoise
+msgid "Button"
+msgstr "Knapp"
+
+#: admin/settings.php:70
+#@ usernoise
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#: admin/settings.php:59
+#@ usernoise
+msgid "Text"
+msgstr "Text"
+
+#: admin/settings.php:67
+#@ usernoise
+msgid "Text color"
+msgstr "Textfärg"
+
+#: admin/settings.php:34
+#@ default
+msgid "Left"
+msgstr "Vänster"
+
+#: admin/settings.php:34
+#@ default
+msgid "Right"
+msgstr "Höger"
+
+#: admin/settings.php:34
+#@ default
+msgid "Top"
+msgstr "Längst upp"
+
+#: admin/settings.php:35
+#@ default
+msgid "Bottom"
+msgstr "Längst ner"
+
+#: admin/settings.php:73
+#@ usernoise
+msgid "Show border"
+msgstr "Visa bård"
+
+#: admin/settings.php:56
+#@ usernoise
+msgid "Position"
+msgstr "Plats"
+
+#: admin/settings.php:83
+#@ usernoise
+msgid "Form title"
+msgstr "Formulärstitel"
+
+#: admin/settings.php:86
+#@ usernoise
+msgid "Introductional text"
+msgstr "Introduktionstext"
+
+#: admin/settings.php:96
+#: admin/settings.php:97
+#@ usernoise
+msgid "Ask for a summary"
+msgstr "Be om sammanfattning"
+
+#: admin/settings.php:101
+#: admin/settings.php:102
+#@ usernoise
+msgid "Ask for an email"
+msgstr "Be om e-postadress"
+
+#: admin/settings.php:111
+#@ usernoise
+msgid "Submit button text"
+msgstr "Knapptext"
+
+#: admin/settings.php:113
+#@ usernoise
+msgid "Thank you screen"
+msgstr "Tackfönster"
+
+#: admin/settings.php:115
+#@ usernoise
+msgid "Thank you screen title"
+msgstr "Tackfönstrets rubrik"
+
+#: admin/settings.php:118
+#@ usernoise
+msgid "Thank you text"
+msgstr "Tackmeddelande"
+
+#: admin/settings.php:133
+#@ default
+msgid "General Options"
+msgstr "Allmäna inställningar"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:301
+#@ default
+msgid "Select a Color"
+msgstr "Välj en färg"
+
+#: admin/dashboard.php:33
+#@ default
+msgid "by"
+msgstr "av"
+
+#: admin/dashboard.php:43
+#@ usernoise
+msgid "View all feedback"
+msgstr "Se all feedback"
+
+#: admin/dashboard.php:46
+#@ usernoise
+msgid "No new feedback now."
+msgstr "Ingen ny feedback"
+
+#: admin/editor-page.php:29
+#: html/publish-meta-box.php:61
+#@ default
+msgid "Publish"
+msgstr "Publicera"
+
+#: admin/editor-page.php:57
+#@ usernoise
+msgid "Feedback was marked as reviewed"
+msgstr "Feedbacken märktes som genomgången"
+
+#: admin/editor-page.php:77
+#@ default
+msgid "Author"
+msgstr "Författare"
+
+#: admin/settings.php:60
+#@ usernoise
+msgctxt "button"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: admin/settings.php:84
+#@ usernoise
+msgctxt "form"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: admin/settings.php:116
+#: html/thankyou.php:2
+#@ usernoise
+msgid "Thank you"
+msgstr "Tack"
+
+#: admin/settings.php:119
+#: html/thankyou.php:4
+#@ usernoise
+msgid "Your feedback has been received."
+msgstr "Din feedback har tagits emot"
+
+#: inc/db-upgrade.php:27
+#@ usernoise
+msgid "Idea"
+msgstr "Förslag"
+
+#: inc/db-upgrade.php:27
+#@ usernoise
+msgid "Question"
+msgstr "Fråga"
+
+#: inc/db-upgrade.php:27
+#@ usernoise
+msgid "Problem"
+msgstr "Problem"
+
+#: inc/db-upgrade.php:28
+#@ usernoise
+msgid "Praise"
+msgstr "Beröm"
+
+#: html/reply-meta-box.php:4
+#@ usernoise
+msgid "Subject"
+msgstr "Ämne"
+
+#: html/reply-meta-box.php:8
+#@ usernoise
+msgid "Send"
+msgstr "Skicka"
+
+#: html/publish-meta-box.php:9
+#: html/publish-meta-box.php:42
+#@ default
+msgid "Status:"
+msgstr "Status:"
+
+#: html/publish-meta-box.php:27
+#@ default
+msgid "M j, Y @ G:i"
+msgstr "Y.m.d @ H:i:s"
+
+#: html/publish-meta-box.php:28
+#, php-format
+#@ default
+msgid "Sent on: <b>%1$s</b>"
+msgstr "Skickat: <b>%1$s</b>"
+
+#: html/publish-meta-box.php:51
+#@ default
+msgid "Delete Permanently"
+msgstr "Radera permanent"
+
+#: html/publish-meta-box.php:53
+#@ default
+msgid "Move to Trash"
+msgstr "Lägg i Papperskorgen"
+
+#: html/publish-meta-box.php:64
+#: html/publish-meta-box.php:65
+#@ default
+msgid "Update"
+msgstr "Uppdatera"
+
+#: html/powered-by.php:2
+#@ usernoise
+msgid "Powered by"
+msgstr "Drivs av"
+
+#: admin/notifications.php:20
+#, php-format
+#@ usernoise
+msgid "Usernoise is disabled now. You can enable and configure it at the <a href=\"%s\">settings page</a>."
+msgstr "Usernoise är nu inaktiv. Du kan aktivera och konfigurera den på <a href=\"%s\">sidan</a>."
+
+#: admin/settings.php:39
+#@ usernoise
+msgid "Enable Usernoise"
+msgstr "Aktivera Usernoise"
+
+#: admin/settings.php:129
+#, php-format
+#@ usernoise
+msgid "Notification emails will be sent to: <a href=\"mailto:%s\">%s</a>"
+msgstr "Notifikationer skickas till: <a href=\"mailto:%s\">%s</a>"
+
+#: admin/settings.php:132
+#, php-format
+#@ usernoise
+msgid "(you can change it at <a href=\"%s\">%s</a> page)."
+msgstr "(du kan byta på <a href=\"%s\">%s</a> sidan)."
+
+#: inc/model.php:112
+#, php-format
+#@ default
+msgid "New %s submitted at %s"
+msgstr "Ny %s har skickats via %s"
+
+#: admin/settings.php:88
+#: admin/settings.php:120
+#@ default
+msgid "This text will be wrapped into &lt;p&gt; tag. You can still use HTML code."
+msgstr "Denna text kommer omslutas av &lt;p&gt; taggar. DU kan ändå använda HTML-kod."
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:158
+#@ default
+msgid "Please provide some settings fields when creating an options framework instance"
+msgstr "Vänligen ange några inställningsfält när du skapar en instans i inställningsramverket."
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:223
+#@ default
+msgid "Save Options"
+msgstr "Spara inställningar"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:224
+#@ default
+msgid "Restore Defaults"
+msgstr "Återställ ursprungsinställningarna"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:224
+#@ default
+msgid "Click OK to reset. All the settings will be reset to defaults!"
+msgstr "Klicka OK för att återställa. Alla inställningarna kommer att återgå till ursprungsinställningarna!"
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:335
+#@ default
+msgid "Upgrade to WordPress 3.3 or later to enable WYSIWYG editor"
+msgstr "Uppgradera till WordPress 3.3 eller senare för att aktivera WYSIWYG editorn."
+
+#: admin/editor-page.php:36
+#@ usernoise
+msgid "HTTP Headers"
+msgstr ""
+
+#: admin/editor-page.php:38
+#@ default
+msgid "Discussion"
+msgstr ""
+
+#: admin/editor-page.php:39
+#@ usernoise
+msgid "WordPress Debug Info"
+msgstr ""
+
+#: admin/settings.php:45
+#@ usernoise
+msgid "Show <strong>\"Powered by Usernoise\"</strong> link at the modal window. Check this, please!"
+msgstr ""
+
+#: admin/settings.php:47
+#@ default
+msgid "The link will only be visible at the modal window."
+msgstr ""
+
+#: admin/settings.php:49
+#: admin/settings.php:50
+#@ usernoise
+msgid "Disable on mobile devices"
+msgstr ""
+
+#: admin/settings.php:77
+#: admin/settings.php:78
+#@ usernoise
+msgid "Form"
+msgstr ""
+
+#: admin/settings.php:92
+#: admin/settings.php:93
+#@ usernoise
+msgid "Ask for feedback type"
+msgstr ""
+
+#: admin/settings.php:123
+#@ usernoise
+msgid "Notifications"
+msgstr ""
+
+#: admin/settings.php:125
+#@ usernoise
+msgid "New feedback received admin notification"
+msgstr ""
+
+#: admin/settings.php:126
+#@ usernoise
+msgid "Enable"
+msgstr ""
+
+#: admin/settings.php:146
+#@ usernoise
+msgid "Notifications do not work right?"
+msgstr ""
+
+#: admin/settings.php:147
+#@ usernoise
+msgid "Check out <a href='http://codecanyon.net/item/all-in-one-email-for-wordpress/1290390'>All in One Email plugin</a>. It adds email options missing in WordPress natively."
+msgstr ""
+
+#: html/window.php:17
+#@ usernoise
+msgid "Close"
+msgstr ""
+
+#: vendor/plugin-options-framework/plugin-options-framework.php:178
+#@ default
+msgid "This page requires JavaScript to be enabled in your browser. Please enable JavaScript."
+msgstr ""
+
+#: admin/settings.php:41
+#: admin/settings.php:42
+#@ usernoise
+msgid "Publish feedback directly without approval"
+msgstr ""
+
+#: admin/settings.php:52
+#@ usernoise
+msgid "Disable icons"
+msgstr ""
+
+#: admin/settings.php:53
+#@ usernoise
+msgid "Use this mode if Usernoise breaks your theme icons in Twitter Bootstrap-based themes"
+msgstr ""
+
+#: admin/settings.php:61
+#@ usernoise
+msgid "Button Icon"
+msgstr ""
+
+#: admin/settings.php:62
+#@ usernoise
+msgid "No icon"
+msgstr ""
+
+#: admin/settings.php:63
+#@ usernoise
+msgid "Icon used on the button. <strong>May conflict with Twitter Bootstrap-based themes</strong>"
+msgstr ""
+
+#: admin/settings.php:90
+#@ usernoise
+msgid "Textarea placeholder"
+msgstr ""
+
+#: admin/settings.php:99
+#@ usernoise
+msgid "Summary field placeholder"
+msgstr ""
+
+#: admin/settings.php:104
+#@ usernoise
+msgid "Email field placeholder"
+msgstr ""
+
+#: admin/settings.php:106
+#: admin/settings.php:107
+#@ usernoise
+msgid "Ask for name"
+msgstr ""
+
+#: admin/settings.php:109
+#@ usernoise
+msgid "Your name"
+msgstr ""
+
+#: admin/settings.php:109
+#@ usernoise
+msgid "Name field placeholder"
+msgstr ""
+
+#: admin/upgrade.php:18
+#@ default
+msgid "Go Pro"
+msgstr ""
+
+#: html/publish-meta-box.php:14
+#@ default
+msgid "Published"
+msgstr ""
+
+#: html/publish-meta-box.php:17
+#@ default
+msgid "Hidden"
+msgstr ""
+
+#: html/publish-meta-box.php:62
+#@ usernoise
+msgid "PublishSave"
+msgstr ""
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Ideas"
+msgstr ""
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Questions"
+msgstr ""
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Problems"
+msgstr ""
+
+#: inc/db-upgrade.php:9
+#@ usernoise
+msgid "Praises"
+msgstr ""
+
+#: inc/model.php:69
+#@ usernoise
+msgid "Please enter your name."
+msgstr ""
+
+#: inc/model.php:105
+#, php-format
+#@ usernoise
+msgid "A new %s has been submitted. View it: %s."
+msgstr ""
+

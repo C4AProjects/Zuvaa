@@ -1,0 +1,46 @@
+.tp-caption.black2 {
+font-size:19px;
+line-height:32px;
+font-weight:300;
+font-family:"gill sans";
+color:rgb(0, 0, 0);
+font-style:italic;
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+border-radius:10px 10px 10px 10px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black3 {
+font-size:17px;
+line-height:39px;
+font-weight:300;
+font-family:"gill sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+border-radius:10px 10px 10px 10px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black4 {
+font-size:22px;
+line-height:39px;
+font-weight:600;
+font-family:"gill sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+border-radius:10px 10px 10px 10px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+

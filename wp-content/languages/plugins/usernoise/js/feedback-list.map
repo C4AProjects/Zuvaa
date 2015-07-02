@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "feedback-list.js",
+  "sourceRoot": "",
+  "sources": [
+    "feedback-list.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CAAO,GAAP,GAAQ;CACP,GAAA,EAAA,gFAAA;CAAA,GACA,EAAA,gCAAA;CADA,GAEA,EAAA,qBAAA;CAFA,GAGA,EAAA,gDAAA;CAJD,EAAO;CAAP"
+}

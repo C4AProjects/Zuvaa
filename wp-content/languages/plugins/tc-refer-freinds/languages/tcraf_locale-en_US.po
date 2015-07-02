@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TCRAF101\n"
+"POT-Creation-Date: 2013-07-11 11:56-0500\n"
+"PO-Revision-Date: 2013-07-11 11:56-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/stats.class.php:76
+msgid "Off Cart Total for Referring Sale"
+msgstr ""
+
+#: inc/stats.class.php:163
+msgid "No recent referrals to show!"
+msgstr ""
+
+#: inc/stats.class.php:183
+msgid " referred "
+msgstr ""
+
+#: inc/stats.class.php:183
+msgid " for a "
+msgstr ""
+
+#: inc/stats.class.php:183 inc/stats.class.php:185
+msgid " sale!"
+msgstr ""
+
+#: inc/stats.class.php:185
+msgid " referred a "
+msgstr ""
+
+#: inc/tcf_bootstrap.php:146 inc/tcf_bootstrap.php:150
+msgid "Click to Share"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:148
+msgid "Click to Tweet"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:154
+msgid ""
+"Share your URL on your favorite social services and start referring your "
+"friends right away!"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:164
+msgid ""
+"This page gives you a run down of how to refer friends to the shop and gives "
+"you a breakdown of how many people you have referred."
+msgstr ""
+
+#: inc/tcf_bootstrap.php:166
+msgid "Refer A Friend URL"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:168
+msgid ""
+"This is your Refer A Friend URL, you can use this URL to refer people "
+"generating great discounts for you and the people you refer."
+msgstr ""
+
+#: inc/tcf_bootstrap.php:172
+msgid ""
+"You can also apply your Refer A Friend ID to the end of shop URLs to refer "
+"people right to product pages or other pages on the site."
+msgstr ""
+
+#: inc/tcf_bootstrap.php:178
+msgid "Your Referral Stats"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:184
+msgid "Refferal Visits"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:185
+msgid "Refferal Hits"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:186
+msgid "Referrals Made"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:187
+msgid "Mininum Not Met"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:188
+msgid "Checkout Ratio"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:203
+msgid "Your Referral Coupons"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:205
+msgid ""
+"Here is a list of your un-used referral coupons. These are coupons you have "
+"received for referring a friend and have not used yet."
+msgstr ""
+
+#: inc/tcf_bootstrap.php:211
+msgid "Coupon Details"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:212 inc/tcf_settings_page.php:366
+msgid "Coupon Code"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:227
+msgid "Minimum Purchase Required"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:229
+msgid ""
+"In order to get your referral coupon you must meet a minimum cart total per "
+"sale of:"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:243
+msgid "You need to be logged in to use this feature."
+msgstr ""
+
+#: inc/tcf_bootstrap.php:243
+msgid "Login Here"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:243
+msgid "Register"
+msgstr ""
+
+#: inc/tcf_bootstrap.php:427
+msgid "Your Coupon Code"
+msgstr ""
+
+#: inc/tcf_dash_widget.php:64
+msgid "Your users have generated "
+msgstr ""
+
+#: inc/tcf_dash_widget.php:64
+msgid " hits total from "
+msgstr ""
+
+#: inc/tcf_dash_widget.php:64
+msgid " unique visitors, generating "
+msgstr ""
+
+#: inc/tcf_dash_widget.php:64
+msgid " sales for your site totalling "
+msgstr ""
+
+#: inc/tcf_dash_widget.php:67
+msgid "Refer A Friend Summary"
+msgstr ""
+
+#: inc/tcf_dash_widget.php:76
+msgid "Recent Referrals"
+msgstr ""
+
+#: inc/tcf_dash_widget.php:77
+msgid "Date"
+msgstr ""
+
+#: inc/tcf_settings_page.php:9 inc/tcf_settings_page.php:289
+msgid "Refer A Friend for WooCommerce"
+msgstr ""
+
+#: inc/tcf_settings_page.php:9
+msgid "Refer A Friend"
+msgstr ""
+
+#: inc/tcf_settings_page.php:289
+msgid "View Plugin Documentation"
+msgstr ""
+
+#: inc/tcf_settings_page.php:314 inc/tcf_settings_page.php:533
+msgid "Save All Changes"
+msgstr ""
+
+#: inc/tcf_settings_page.php:315
+msgid "Options Page"
+msgstr ""
+
+#: inc/tcf_settings_page.php:324
+msgid "General Settings"
+msgstr ""
+
+#: inc/tcf_settings_page.php:325
+msgid "Referral Settings"
+msgstr ""
+
+#: inc/tcf_settings_page.php:326
+msgid "Social Button Settings"
+msgstr ""
+
+#: inc/tcf_settings_page.php:334
+msgid "No \"Refer A Friend\" Page Found!"
+msgstr ""
+
+#: inc/tcf_settings_page.php:337
+msgid ""
+"Currently you do not have a Refer A Friend page setup for your users. "
+"Without one they cannot view their link IDs or see their stats and coupons."
+msgstr ""
+
+#: inc/tcf_settings_page.php:338
+msgid ""
+"Create a page with your choice of title and enter [tcraf-refer-page] for the "
+"page content. You can direct your users to this page to start referring "
+"sales."
+msgstr ""
+
+#: inc/tcf_settings_page.php:346
+msgid "Enable Refer A Friend"
+msgstr ""
+
+#: inc/tcf_settings_page.php:350 inc/tcf_settings_page.php:363
+#: inc/tcf_settings_page.php:409 inc/tcf_settings_page.php:473
+msgid "Enabled"
+msgstr ""
+
+#: inc/tcf_settings_page.php:351 inc/tcf_settings_page.php:364
+#: inc/tcf_settings_page.php:410 inc/tcf_settings_page.php:474
+msgid "Disabled"
+msgstr ""
+
+#: inc/tcf_settings_page.php:354
+msgid "Disable / Enable Refer A Friend quickly and easily."
+msgstr ""
+
+#: inc/tcf_settings_page.php:359
+msgid "Buyer Discount Setup"
+msgstr ""
+
+#: inc/tcf_settings_page.php:381
+msgid "You have no WooCommerce Coupon Codes! Create one!"
+msgstr ""
+
+#: inc/tcf_settings_page.php:385
+msgid ""
+"Select the WooCommerce coupon you want to apply to the shopping cart when a "
+"user makes a purchase after being referred."
+msgstr ""
+
+#: inc/tcf_settings_page.php:391
+msgid "Cart / Success Message"
+msgstr ""
+
+#: inc/tcf_settings_page.php:392
+msgid ""
+"Choose the message that will be displayed on the cart / checkout pages when "
+"a buyer has been given the \"Refer a Friend\" discount."
+msgstr ""
+
+#: inc/tcf_settings_page.php:406
+msgid "Enable Referral Coupon"
+msgstr ""
+
+#: inc/tcf_settings_page.php:412
+msgid ""
+"Enable an optional one time use coupon that will be sent to the user who "
+"refers a friend."
+msgstr ""
+
+#: inc/tcf_settings_page.php:417
+msgid "Minimum Purchase Amount"
+msgstr ""
+
+#: inc/tcf_settings_page.php:420
+msgid ""
+"Enter a minimum purchase amount for referrals. If this cart total is not met "
+"the referral coupon will not be credited to the referring user. Enter 0 to "
+"disable minimum cart requirement."
+msgstr ""
+
+#: inc/tcf_settings_page.php:425
+msgid "Referral Coupon Type"
+msgstr ""
+
+#: inc/tcf_settings_page.php:429
+msgid "Percentage"
+msgstr ""
+
+#: inc/tcf_settings_page.php:430
+msgid "Flat Rate"
+msgstr ""
+
+#: inc/tcf_settings_page.php:433
+msgid "Choose the type of coupon you want to use."
+msgstr ""
+
+#: inc/tcf_settings_page.php:438
+msgid "Coupon Amount"
+msgstr ""
+
+#: inc/tcf_settings_page.php:441
+msgid "Enter the amount of the discount."
+msgstr ""
+
+#: inc/tcf_settings_page.php:446
+msgid "Coupon Email Subject"
+msgstr ""
+
+#: inc/tcf_settings_page.php:449
+msgid ""
+"Enter the subject of the email that will be sent notifiying the user of "
+"their coupon code."
+msgstr ""
+
+#: inc/tcf_settings_page.php:454
+msgid "Coupon Email Message"
+msgstr ""
+
+#: inc/tcf_settings_page.php:455
+msgid ""
+"This is the message that will be sent in the email to the user notifying "
+"them of their referral coupon code. The coupon code will be inserted under "
+"this message."
+msgstr ""
+
+#: inc/tcf_settings_page.php:469
+msgid "Enable Social Buttons"
+msgstr ""
+
+#: inc/tcf_settings_page.php:476
+msgid "Enter URL To Share"
+msgstr ""
+
+#: inc/tcf_settings_page.php:479
+msgid ""
+"Here you can enable optional buttons that allow affiliates / referring users "
+"a way to share referral links right from their stats page. The URL you enter "
+"will be affixed with the users affiliate ID and shared on the various "
+"networks."
+msgstr ""
+
+#: inc/tcf_settings_page.php:484
+msgid "Facebook Setup"
+msgstr ""
+
+#: inc/tcf_settings_page.php:487
+msgid "Facebook Share Title"
+msgstr ""
+
+#: inc/tcf_settings_page.php:489
+msgid "Facebook Share Text"
+msgstr ""
+
+#: inc/tcf_settings_page.php:492
+msgid "Upload Custom Image"
+msgstr ""
+
+#: inc/tcf_settings_page.php:492
+msgid "Remove Image"
+msgstr ""
+
+#: inc/tcf_settings_page.php:500
+msgid ""
+"Here you can set a custom title and message for the Share snippet that will "
+"be posted on Facebook. You can also select a custom thumbnail image to set "
+"in the Share snippet. Around 100x100 pixels should do the trick."
+msgstr ""
+
+#: inc/tcf_settings_page.php:505
+msgid "Twitter Setup"
+msgstr ""
+
+#: inc/tcf_settings_page.php:508
+msgid "Default Tweet Text"
+msgstr ""
+
+#: inc/tcf_settings_page.php:511
+msgid ""
+"Here you can tweak the Tweet button by setting a custom message that gets "
+"preloaded when an affiliate clicks the Twitter button."
+msgstr ""
+
+#: inc/tcf_settings_page.php:516
+msgid "Social Buttons Message"
+msgstr ""
+
+#: inc/tcf_settings_page.php:517
+msgid ""
+"Here you can customize the message that is displayed inside the social "
+"button sharing widget displayed in the affiliates' stats page."
+msgstr ""

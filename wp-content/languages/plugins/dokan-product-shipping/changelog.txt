@@ -1,0 +1,28 @@
+v0.4 - 12 August, 2014
+====================
+
+* [improved] Don't allow product purchases that doesn't ship to a country
+
+
+v0.3 - 30 May, 2014
+====================
+
+* [new] Charge shipping for the products from a seller as a whole
+
+v0.2.1 - 26 May, 2014
+====================
+
+* [fix] Allow free shipping on checkout
+
+
+v0.2 - 25 May, 2014
+====================
+
+* [fix] Allow "0" as shipping price
+* [new] Plugin updater class added
+
+
+v0.1
+====================
+
+* Initial release

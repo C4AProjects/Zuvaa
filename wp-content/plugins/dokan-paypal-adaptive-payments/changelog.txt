@@ -1,0 +1,16 @@
+v1.0 - 25 Sep, 2014
+------------------
+- [new] Single seller mode added and set the seller as primary receiver
+- [new] Customer shipping details added to PayPal
+
+v0.1.2
+------------------
+- Fix cart error when adding more than 5 products
+
+v0.1.1
+------------------
+- Hide withdraw page bug fix
+
+v0.1
+------------------
+- Initial Release

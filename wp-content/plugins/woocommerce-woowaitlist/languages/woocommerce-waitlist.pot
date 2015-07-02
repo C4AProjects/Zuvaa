@@ -1,0 +1,396 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TODO 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-28 21:54+0200\n"
+"PO-Revision-Date: 2014-11-28 21:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: Todo team <toto@email.com >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woocommerce-waitlist.php:311
+#: public/class-woocommerce-waitlist.php:202
+msgid "Settings saved successful."
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:340
+#: public/class-woocommerce-waitlist.php:231
+msgid "Please insert a valid email address."
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:345
+#: public/class-woocommerce-waitlist.php:227
+msgid "Email settings saved successful."
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:532
+#: admin/class-woocommerce-waitlist.php:533
+#: admin/class-woocommerce-waitlist.php:543
+#: admin/class-woocommerce-waitlist.php:544
+msgid "WooWaitlist"
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:572
+msgid "Settings"
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:587
+msgid "Waitlist subscribers"
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:600
+msgid "WooWaitlist subscription"
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:627
+#: admin/views/admin.php:413
+#: admin/views/admin.php:577
+msgid "Export"
+msgstr ""
+
+#: admin/class-woocommerce-waitlist.php:641
+msgid "Disable WooWaitist subscription"
+msgstr ""
+
+#: admin/views/admin.php:44
+msgid "WooWaitlist Settings"
+msgstr ""
+
+#: admin/views/admin.php:45
+msgid "Email Settings"
+msgstr ""
+
+#: admin/views/admin.php:46
+msgid "WooWaitlist Data"
+msgstr ""
+
+#: admin/views/admin.php:129
+#: admin/views/admin.php:158
+msgid "Subscribe to waitlist"
+msgstr ""
+
+#: admin/views/admin.php:131
+#: admin/views/admin.php:165
+#: public/class-woocommerce-waitlist.php:862
+#: public/class-woocommerce-waitlist.php:948
+msgid "Out of stock"
+msgstr ""
+
+#: admin/views/admin.php:139
+#: public/class-woocommerce-waitlist.php:867
+msgid "Notify me when item is back in stock"
+msgstr ""
+
+#: admin/views/admin.php:140
+#: public/class-woocommerce-waitlist.php:946
+#: public/class-woocommerce-waitlist.php:961
+msgid "Notify me when item variation is back in stock"
+msgstr ""
+
+#: admin/views/admin.php:141
+#: public/class-woocommerce-waitlist.php:645
+msgid "Your email address has been saved and you will be notified when the product is back in stock"
+msgstr ""
+
+#: admin/views/admin.php:142
+#: public/class-woocommerce-waitlist.php:639
+msgid "Your email address has been saved and you will be notified when the product variation is back in stock"
+msgstr ""
+
+#: admin/views/admin.php:143
+#: public/class-woocommerce-waitlist.php:679
+msgid "You have already subscribed to this product waitlist"
+msgstr ""
+
+#: admin/views/admin.php:144
+#: public/class-woocommerce-waitlist.php:673
+msgid "You have already subscribed to this product variation waitlist"
+msgstr ""
+
+#: admin/views/admin.php:150
+#: public/class-woocommerce-waitlist.php:691
+msgid "Email Address is Required"
+msgstr ""
+
+#: admin/views/admin.php:172
+msgid "Simple Product \"Out of stock\" Notification"
+msgstr ""
+
+#: admin/views/admin.php:179
+msgid "Product Variable \"Out of Stock\" Notification"
+msgstr ""
+
+#: admin/views/admin.php:186
+msgid "Subscribed Success Message for Simple Product"
+msgstr ""
+
+#: admin/views/admin.php:193
+msgid "Subscribed Success Message for Product Variation"
+msgstr ""
+
+#: admin/views/admin.php:200
+msgid "Already Subscribed Message for Simple Product"
+msgstr ""
+
+#: admin/views/admin.php:207
+msgid "Already Subscribed Message for Product Variation"
+msgstr ""
+
+#: admin/views/admin.php:215
+msgid "Display subscribe field in case of enabled \"backorder\" for products"
+msgstr ""
+
+#: admin/views/admin.php:223
+msgid "Display subscribe field based on:"
+msgstr ""
+
+#: admin/views/admin.php:226
+msgid "Stock status"
+msgstr ""
+
+#: admin/views/admin.php:227
+msgid "Managed stock quantity"
+msgstr ""
+
+#: admin/views/admin.php:241
+msgid "Enable/Disable Access to Shop Manager"
+msgstr ""
+
+#: admin/views/admin.php:255
+msgid "Enable/Disable Administrator notifications on products subscriptions"
+msgstr ""
+
+#: admin/views/admin.php:263
+msgid "Empty Email Address Notification"
+msgstr ""
+
+#: admin/views/admin.php:271
+msgid "Select Unsubscribe Page"
+msgstr ""
+
+#: admin/views/admin.php:274
+msgid "-- Select page --"
+msgstr ""
+
+#: admin/views/admin.php:297
+msgid "Remove WooWaitlist Data on Plugin Uninstall"
+msgstr ""
+
+#: admin/views/admin.php:305
+msgid "Add Custom CSS"
+msgstr ""
+
+#: admin/views/admin.php:315
+#: admin/views/admin.php:398
+msgid "Save Changes"
+msgstr ""
+
+#: admin/views/admin.php:326
+msgid "Your product %product% is back in stock, don't miss out and visit the %product page%."
+msgstr ""
+
+#: admin/views/admin.php:342
+msgid "Subscription From"
+msgstr ""
+
+#: admin/views/admin.php:349
+msgid "Subscription Email Subject"
+msgstr ""
+
+#: admin/views/admin.php:356
+msgid "Send \"Back in stock\" email, when product quantity is more than"
+msgstr ""
+
+#: admin/views/admin.php:364
+msgid "\"Back in stock\" Email Content"
+msgstr ""
+
+#: admin/views/admin.php:373
+msgid "Back In Stock Notifications: Use WooCommerce 'From' Email Address Option"
+msgstr ""
+
+#: admin/views/admin.php:377
+msgid "Insert Custom 'From' Email Address"
+msgstr ""
+
+#: admin/views/admin.php:386
+msgid "You can use following shortcodes:"
+msgstr ""
+
+#: admin/views/admin.php:388
+msgid "Display Site Title as Shown in WooCommerce 'From Name' Email Settings"
+msgstr ""
+
+#: admin/views/admin.php:389
+msgid "Display Product Title"
+msgstr ""
+
+#: admin/views/admin.php:390
+msgid "Display Linked Product Title"
+msgstr ""
+
+#: admin/views/admin.php:411
+#: admin/views/admin.php:575
+msgid "Actions"
+msgstr ""
+
+#: admin/views/admin.php:412
+#: admin/views/admin.php:480
+#: admin/views/admin.php:576
+msgid "Delete"
+msgstr ""
+
+#: admin/views/admin.php:415
+#: admin/views/admin.php:579
+msgid "Apply"
+msgstr ""
+
+#: admin/views/admin.php:424
+#: admin/views/admin.php:438
+msgid "Email"
+msgstr ""
+
+#: admin/views/admin.php:425
+#: admin/views/admin.php:439
+msgid "Thumb"
+msgstr ""
+
+#: admin/views/admin.php:426
+#: admin/views/admin.php:440
+msgid "Product Title"
+msgstr ""
+
+#: admin/views/admin.php:427
+#: admin/views/admin.php:441
+msgid "Variation"
+msgstr ""
+
+#: admin/views/admin.php:428
+#: admin/views/admin.php:442
+msgid "Grouped parent"
+msgstr ""
+
+#: admin/views/admin.php:429
+#: admin/views/admin.php:443
+msgid "Categories"
+msgstr ""
+
+#: admin/views/admin.php:430
+#: admin/views/admin.php:444
+msgid "Date Added"
+msgstr ""
+
+#: admin/views/admin.php:567
+msgid "No subscribers."
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:301
+msgid "Email address: "
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:307
+#: public/class-woocommerce-waitlist.php:316
+msgid "Product: "
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:310
+msgid "Child product: "
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:322
+msgid "Variation: "
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:344
+msgid "Unsubscribe from waitlist"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:356
+msgid "%product% added to your Waitlist"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:366
+msgid "Product has been added to a Waitlist"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:398
+#: public/class-woocommerce-waitlist.php:537
+msgid "variation:"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:516
+#: public/class-woocommerce-waitlist.php:528
+msgid "Your email"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:518
+msgid "removed from notification list for grouped product"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:523
+msgid "child product:"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:530
+msgid "removed from notification list for product"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:657
+msgid "An error occured on saving product's variation notification data. Try again or contact site's administrator"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:661
+msgid "An error occured on saving product's notification data. Try again or contact site's administrator"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:699
+msgid "Not acceptable data."
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:881
+#: public/class-woocommerce-waitlist.php:1956
+msgid "Insert email address"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:883
+#: public/class-woocommerce-waitlist.php:1957
+msgid "Subscribe"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1496
+msgid "Your product %product% is back in stock, don't miss out and visit the %product page% ."
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1508
+msgid "Product variation is available"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1512
+msgid "Grouped product is available"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1520
+msgid "Your Grouped Child Product"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1522
+msgid "is back in stock"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1523
+msgid "don't miss out and visit the Grouped Product"
+msgstr ""
+
+#: public/class-woocommerce-waitlist.php:1528
+msgid "Product is available"
+msgstr ""
+

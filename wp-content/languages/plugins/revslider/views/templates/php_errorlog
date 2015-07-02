@@ -1,0 +1,10 @@
+[28-Jun-2014 21:37:18 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/sliders.php on line 14
+[30-Jun-2014 21:50:50 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[04-Jul-2014 04:15:25 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[05-Jul-2014 04:08:32 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/edit_layers.php on line 6
+[06-Jul-2014 15:22:56 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slider_edit.php on line 15
+[07-Jul-2014 00:56:11 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slide.php on line 30
+[14-Jul-2014 11:18:07 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[14-Jul-2014 15:04:00 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[12-Aug-2014 23:27:42 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slides_posts.php on line 5
+[14-Aug-2014 02:40:13 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/zuvaa549/public_html/shop/wp-content/plugins/revslider/views/templates/slider_new.php on line 12
